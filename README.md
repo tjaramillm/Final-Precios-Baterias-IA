@@ -43,7 +43,7 @@ python -m venv .venv
 .venv\Scripts\activate          # Windows   |   source .venv/bin/activate  (Linux/Mac)
 pip install -r requirements.txt
 
-# 2. Clave (NO se sube a GitHub)
+# 2. Clave
 copy .env.example .env          # Windows   |   cp .env.example .env
 #    editar .env → NVIDIA_API_KEY=nvapi-...
 
