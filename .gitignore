@@ -7,10 +7,6 @@ __pycache__/
 llave.txt*
 EAFIT_Proyecto_Final_IA.pdf
 
-# LaTeX (archivos auxiliares)
-informe/*.aux
-informe/*.log
-informe/*.fls
-informe/*.fdb_latexmk
-informe/*.out
-informe/*.synctex.gz
+# Informe: solo se sube el PDF compilado
+informe/*
+!informe/informe.pdf
