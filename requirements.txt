@@ -1,0 +1,9 @@
+numpy>=2.0
+pandas>=2.2
+requests>=2.32
+matplotlib>=3.9
+openai>=1.40
+faiss-cpu>=1.8
+gradio>=5.0
+python-dotenv>=1.0
+ipykernel>=6.29

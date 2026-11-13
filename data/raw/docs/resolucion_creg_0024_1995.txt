@@ -1,0 +1,2308 @@
+RESOLUCIÓN 24 DE 1995 
+
+(julio 13)
+
+Diario Oficial No. 41.937 de 24 de julio de 1995
+
+COMISION DE REGULACION DE ENERGIA Y GAS 
+
+Por la cual se reglamentan los aspectos comerciales del mercado mayorista de energía en el sistema interconectado nacional, que hacen parte del Reglamento de Operación.
+
+Resumen de Notas de Vigencia
+
+Concordancias CREG
+
+LA COMISION DE REGULACION DE ENERGIA Y GAS 
+
+en ejercicio de sus atribuciones constitucionales y legales, en especial las conferidas por las Leyes 142 y 143 de 1994, y en desarrollo de los Decretos 1524 y 2253 de 1994, y 
+
+CONSIDERANDO: 
+
+Que la Comisión de Regulación de Energía y Gas tiene la facultad legal de establecer el Reglamento de Operación, el cual incluye los principios, criterios y procedimientos para regular el funcionamiento del mercado mayorista de energía eléctrica, de conformidad con lo señalado en las Leyes 142 y 143 de 1994; 
+
+Que se hace necesario regular los aspectos comerciales básicos del mercado mayorista de energía eléctrica; 
+
+Que conforme a lo dispuesto en la Ley 143 de 1994, el Consejo Nacional de Operación expresó sus opiniones sobre los aspectos regulados en la presente resolución; 
+
+Que la Comisión de Regulación de Energía y Gas, en su sesión del día 10 de julio de 1995, consideró y aprobó las decisiones que se contienen en esta providencia; 
+
+RESUELVE 
+
+ARTICULO 1o. DEFINICIONES. Para efectos de la presente resolución, y de las demás reglamentaciones que desarrollen aspectos relacionados con el mercado mayorista de energía eléctrica, se tendrán en cuenta las siguientes definiciones generales: 
+
+Administrador del Sistema de Intercambios Comerciales. Dependencia del Centro Nacional de Despacho adscrita a Interconexión Eléctrica S.A. "E.S.P.", encargada del registro de los contratos de energía a largo plazo; de la liquidación, facturación, cobro y pago del valor de los actos o contratos de energía en la bolsa por generadores y comercializadores; del mantenimiento de los sistemas de información y programas de computación requeridos; y del cumplimiento de las tareas necesarias para el funcionamiento adecuado del Sistema de Intercambios Comerciales (SIC). 
+
+Agente económico. Cualquiera de las personas a las que se refiere el artículo 15 de la ley 142 de 1994. 
+
+Agente comercializador. Es la empresa registrada ante el Administrador SIC que realiza la comercialización de energía. 
+
+Agente generador. Es la empresa registrada ante el Administrador del SIC que realiza la actividad de generación de energía. 
+
+Aporte de cortocircuito emulado o sintético: <Definición adicionada por el artículo 84 (definición contenida en el artículo 3) de la Resolución 101 113 de 2026. El nuevo texto es el siguiente:> Es la capacidad de un formador de red que trata de replicar de forma aproximada la inyección de corriente de corto circuito pico, subtransitoria y transitoria, típica de la generación síncrona convencional. También incluye el efecto de sobrecorriente en el estado estable durante una falla y un aporte en componentes de secuencia positiva y negativa.
+
+Notas de Vigencia
+
+Aporte de inercia emulada o sintética: <Definición adicionada por el artículo 84 (definición contenida en el artículo 3) de la Resolución 101 113 de 2026. El nuevo texto es el siguiente:> Es el aporte de potencia activa que se genera a partir del formador de red para replicar de forma aproximada el soporte inercial de la generación síncrona convencional, el cual actúa antes que el control primario de frecuencia. Es una característica que se activa durante cambios de frecuencia en la red y se complementa con la respuesta rápida en potencia activa.
+
+Notas de Vigencia
+
+Bolsa de energía. Sistema de información, manejado por el Administrador del Sistema de Intercambios Comerciales, sometido a las reglas que adelante aparecen, en donde los generadores y comercializadores del mercado mayorista ejecutan actos de intercambio de ofertas y demandas de energía, hora a hora, para que el Administrador del Sistema de Intercambios Comerciales ejecute los contratos resultantes en la bolsa de energía, y liquide, recaude y distribuya los valores monetarios correspondientes a las partes y a los transportadores. 
+
+Centro Nacional de Despacho. Es la dependencia encargada de la planeación, supervisión y control de la operación integrada de los recursos de generación, interconexión y transmisión del sistema interconectado nacional. El Centro está encargado también de dar las instrucciones a los Centros Regionales de Despacho para coordinar las maniobras de las instalaciones con el fin de tener una operación segura, confiable y ceñida al Reglamento de Operación y a todos los acuerdos del Consejo Nacional de Operación. 
+
+Centro Regional de Despacho. Es un centro de supervisión y control de la operación de las redes, subestaciones y centrales de generación localizadas en una misma región, cuya función es la de coordinar la operación y maniobras de esas instalaciones con sujeción, en lo pertinente, a las instrucciones impartidas por el Centro Nacional de Despacho, en desarrollo de las previsiones contenidas en el Reglamento de Operación, con el fin de asegurar una operación segura y confiable del sistema interconectado. 
+
+Código de redes. Conjunto de reglas, normas, estándares y procedimientos técnicos expedido por la Comisión, a los cuales deben someterse las empresas de servicios públicos del sector eléctrico y otras personas que usen el sistema de transmisión nacional. 
+
+Comercialización de energía eléctrica. Actividad consistente en la compra y venta de energía eléctrica en el mercado mayorista y su venta con destino a otras operaciones en dicho mercado o a los usuarios finales. 
+
+Comercializador. Persona natural o jurídica cuya actividad principal es la comercialización de energía eléctrica. 
+
+Comisión. La Comisión de Regulación de Energía y Gas (CREG), organizada como Unidad Administrativa Especial del Ministerio de Minas y Energía, según lo previsto en los artículos 69 de la Ley 142 de 1994, y 21 de la Ley 143 de 1994. 
+
+Consumo propio. <Definición modificada por el artículo 85 de la Resolución 101 113 de 2026. El nuevo texto es el siguiente:> Energía utilizada para alimentar los servicios auxiliares de las subestaciones del STN, del STR o del SDL o en plantas de generación de energía eléctrica o en sistemas de almacenamiento de energía o en recursos de generación híbridos
+
+Notas de Vigencia
+
+Legislación Anterior
+
+Control de seguidor de red (Grid-Following – GFL). <Definición adicionada por el artículo 84 (definición contenida en el artículo 3) de la Resolución 101 113 de 2026. El nuevo texto es el siguiente:> Es el diseño del software de control que se aplica sobre un inversor, utilizado para integrar recursos fotovoltaicos, eólicos o de almacenamiento por SAEB y que requiere para su operación un lazo seguidor de fase (Phase Locked Loop – PLL).
+
+Notas de Vigencia
+
+Demanda total. <Definición adicionada por el artículo 1o. de la Resolución CREG- 112 de 1998.> Corresponde a la demanda comercial doméstica o nacional, más la demanda comercial internacional 
+
+Notas de vigencia
+
+Despacho ideal. <Definición modificada por el artículo 85 de la Resolución 101 113 de 2026. El nuevo texto es el siguiente:> Es la programación de generación que se realiza a posteriori por el Sistema de Intercambios Comerciales (SIC), en la cual se atiende la demanda real con la disponibilidad real de las plantas de generación (sea que tenga o no SAEB), y considerando la carga y/o descarga de los SAEB independientes. Este despacho se realiza considerando las ofertas de precios en la Bolsa de Energía, las ofertas de Precios de Arranque-Parada, las ofertas de los enlaces internacionales y las características técnicas de las plantas o unidades o recursos de generación híbridos o SAEB independientes para obtener la combinación de generación y de carga y/o descarga de estos SAEB que resulte en mínimo costo para atender de demanda total del día, sin considerar la red de transporte.
+
+Notas de Vigencia
+
+Concordancias
+
+Legislación Anterior
+
+Despacho programado. <Definición modificada por el artículo 85 de la Resolución 101 113 de 2026. El nuevo texto es el siguiente:> Es el programa de generación que realiza el Centro Nacional de Despacho (CND), denominado Redespacho en el Código de Redes, para atender una predicción de demanda y sujeto a las restricciones del sistema, considerando la declaración de disponibilidad, la oferta en precios y asignando la generación por orden de méritos de menor a mayor. En el despacho programado se tendrá en cuenta la carga y/o descarga de SAEB, sea como independiente o activo de red.
+
+Notas de Vigencia
+
+Legislación Anterior
+
+Despacho real. <Definición modificada por el artículo 85 de la Resolución 101 113 de 2026. El nuevo texto es el siguiente:> Es el programa de generación realmente efectuado por los generadores, el cual se determina con base en las mediciones en las fronteras de los generadores. Para este reglamento se entenderá que en el despacho real se programará cualquier recurso de generación bajo cualquier modalidad, sea generador, autogenerador, cogenerador, SAEB independiente o como activo de red, recurso de generación hibrido, entre otros, que entregue energía al SIN. 
+
+Notas de Vigencia
+
+Legislación Anterior
+
+Disponibilidad Comercial. <Definición modificada por el artículo 85 de la Resolución 101 113 de 2026. El nuevo texto es el siguiente:> Es la disponibilidad calculada por el SIC, la cual considera la declaración de disponibilidad de los generadores (sea generador, cogenerador, autogenerador, recursos de generación híbridos u otros), o SAEB independientes, modificada cuando se presenten cambios en las unidades de generación o del SAEB independiente en la operación real del sistema.
+
+Notas de Vigencia
+
+Legislación Anterior
+
+Distribución de electricidad. Es la actividad de transportar energía a través de una red de distribución a voltajes iguales o inferiores a 115 kV. 
+
+Empresa. Para efectos de la presente resolución, son empresas aquellas que se ajusten a la definición del artículo 25 del Código de Comercio, las empresas industriales y comerciales del Estado, y especialmente, las empresas de servicios públicos a las que se refiere la Ley 142 de 1994. 
+
+Empresas de servicios públicos. Las que regula el capítulo I del Título I, de la Ley 142 de 1994. 
+
+Formador de Red (Grid-Forming - GFM). <Definición adicionada por el artículo 84 (definición contenida en el artículo 3) de la Resolución 101 113 de 2026. El nuevo texto es el siguiente:> Es el diseño del software de control de un inversor utilizado para integrar recursos fotovoltaicos, eólicos o de almacenamiento con SAEB y que permite al inversor generar y mantener una tensión y frecuencia estables, incluso cuando no hay plantas de generación síncronas conectadas a la red.
+
+Notas de Vigencia
+
+Generador. Persona natural o jurídica que produce energía eléctrica, que tiene por lo menos una central conectada al SIN con una capacidad efectiva total en la central superior a los 20 MW o aquellos que tienen por lo menos una central de capacidad efectiva total menor o igual a 20 MW conectada al SIN, que soliciten ser despachados centralmente. 
+
+Inflexibilidad de Unidades. <Definición modificada por el artículo 1o. de la Resolución 122 de 1998. El nuevo texto es el siguiente:> Una unidad es inflexible cuando las características técnicas de la unidad hacen que genere en una hora a pesar de que su precio de oferta es superior al costo marginal del sistema. 
+
+Notas de vigencia
+
+Doctrina Concordante
+
+Legislación anterior
+
+Información. Conjunto de documentos, o de datos transmitidos por cualquier medio hábil, acerca de los actos y contratos de una empresa. Incluye documentos tales como las cuentas, estimativos, formularios y similares que sirven para preparar, tramitar, ejecutar, registrar y analizar tales actos y contratos, tengan o no el carácter de pruebas para efectos judiciales. 
+
+Mercado libre. Es el mercado de energía eléctrica en que participan los usuarios no regulados y quienes los proveen de energía eléctrica. 
+
+Mercado mayorista. Conjunto de sistemas de intercambio de información entre generadores y comercializadores de grandes bloques de energía eléctrica en el sistema interconectado nacional, para realizar contratos de energía a largo plazo y en bolsa sobre cantidades y precios definidos, con sujeción al Reglamento de Operación y demás normas aplicables. 
+
+Mercado regulado. Es el mercado de energía eléctrica en que participan los usuarios regulados y quienes los proveen de electricidad. 
+
+Orden de méritos. <Definición modificada por el artículo 85 de la Resolución 101 113 de 2026. El nuevo texto es el siguiente:> Ordenamiento con base en los precios de oferta de los generadores (sean generadores, cogeneradores, autogeneradores, recursos de generación híbridos u otros) y de los SAEB independientes.
+
+Notas de Vigencia
+
+Legislación Anterior
+
+Programa de generación. <Definición modificada por el artículo 85 de la Resolución 101 113 de 2026. El nuevo texto es el siguiente:> Es la asignación de generación de las unidades o plantas despachadas centralmente (sean generadores, cogeneradores, autogeneradores, recursos de generación híbridos, u otros) y la programación de la descarga de los SAEB independientes.
+
+Notas de Vigencia
+
+Legislación Anterior
+
+Recurso de generación hibrido: <Definición adicionada por el artículo 84 (definición contenida en el artículo 3) de la Resolución 101 113 de 2026. El nuevo texto es el siguiente:> Se refiere a una planta y/o unidad de generación que en sus instalaciones contiene un SAEB y su conjunto (planta y/o unidad de generación - SAEB) tiene asociado una única frontera de generación. También debe tener de forma independiente una frontera de consumo auxiliar o propio.
+
+Notas de Vigencia
+
+Reglamento de Operación. Conjunto de principios, criterios y procedimientos establecidos para realizar el planeamiento, la coordinación y la ejecución de la operación del sistema interconectado nacional y para regular el funcionamiento del mercado mayorista de energía eléctrica. El Reglamento de Operación comprende varios documentos que se organizarán conforme a los temas propios del funcionamiento del sistema interconectado nacional. 
+
+Relación de cortocircuito (Short Circuit Ratio - SCR): <Definición adicionada por el artículo 84 (definición contenida en el artículo 3) de la Resolución 101 113 de 2026. El nuevo texto es el siguiente:> Métrica de la capacidad de un nodo de la red eléctrica para mantener su tensión ante variaciones de corriente. Es un indicador adimensional de la fortaleza de la red y puede ser calculado según la definición de la norma IEEE 2800 de 2022 o según se indique por el CND y mediante Acuerdo CNO.
+
+Notas de Vigencia
+
+Relación X/R: <Definición adicionada por el artículo 84 (definición contenida en el artículo 3) de la Resolución 101 113 de 2026. El nuevo texto es el siguiente:> Comparación numérica entre la reactancia y la resistencia de la impedancia equivalente de la red. Es una métrica adimensional.
+
+Notas de Vigencia
+
+Reserva de Regulación Primaria. <Definición modificada por el artículo 85 de la Resolución 101 113 de 2026. El nuevo texto es el siguiente:> Es aquella Reserva Rodante en las plantas (sea recurso de generación hibrido o no) que responden a cambios súbitos de frecuencia en un lapso de 0 a 10 segundos. La variación de carga de la planta debe ser sostenible al menos durante los siguientes 30 segundos. Para el caso de un SAEB independiente, o como activo de red, o del SAEB inmerso en un recurso de generación hibrido se deben cumplir con el mismo tiempo de respuesta anterior y ser sostenido durante al menos un 1 minuto.
+
+Notas de Vigencia
+
+Legislación Anterior
+
+Reserva rodante. <Definición modificada por el artículo 85 de la Resolución 101 113 de 2026. El nuevo texto es el siguiente:> Es la parte de la reserva operativa ubicada en plantas (sea generador, cogenerador, autogenerador, recurso de generación hibrido u otros) y los SAEB independientes o como activos de red, todos los anteriores que estén operando y puedan responder a cambios de generación en períodos de hasta 30 segundos. 
+
+Notas de Vigencia
+
+Legislación Anterior
+
+Respaldo. Es la capacidad de generación de energía no necesaria para atender la demanda al nivel de confiabilidad de 95%, pero que se encuentra disponible para atender la demanda de energía en casos extremos de acuerdo con los criterios de flexibilidad y vulnerabilidad adoptados por la Unidad de Planeación Minero-Energética en la elaboración del Plan de Expansión de Referencia. 
+
+SAEB independiente: <Definición adicionada por el artículo 84 (definición contenida en el artículo 3) de la Resolución 101 113 de 2026. El nuevo texto es el siguiente:> SAEB instalado en el SIN que no comparte activos de conexión con alguna planta y/o unidad de generación y tiene dos fronteras comerciales conforme al Código de Medida, Resolución CREG 038 de 2014: a) una Frontera para Descarga de Sistemas de Almacenamiento de Energía, y b) una Frontera para Carga de Sistemas de Almacenamiento de Energía. La categoría de SAEB independientes es aplicable a aquellos de capacidad nominal del SAEB mayor o igual a 5 MW. También debe tener de forma independiente una frontera de consumo auxiliar o propio.
+
+Notas de Vigencia
+
+Servicio público de electricidad o de energía eléctrica. Comprende las actividades de generación, interconexión, transmisión, distribución y comercialización de energía eléctrica, de acuerdo con el artículo 1 de la Ley 143 de 1994 y el numeral 14.25 de la Ley 142 de 1994. 
+
+Servicios asociados de generación de energía. <Definición modificada por el artículo 85 de la Resolución 101 113 de 2026. El nuevo texto es el siguiente:> Son servicios asociados con la actividad de generación los que prestan las empresas generadoras con sus unidades conectadas al Sistema Interconectado Nacional para asegurar el cumplimiento de las normas sobre calidad, confiabilidad y seguridad en la prestación del servicio. Incluye entre otros, la generación de potencia reactiva, la Reserva Primaria y de AGC, de acuerdo con las normas respectivas establecidas en el Reglamento de Operación 
+
+Los anteriores servicios también los prestan los agentes generadores con los SAEB independientes que representen. 
+
+Los SAEB independientes se considerarán para efectos de aplicación de las reglas del Reglamento de Operación como una unidad de generación despechada centralmente y deberán prestar los mismos servicios asociados de generación de energía u otros en que se les indique expresamente en el Reglamento de Operación.
+
+Notas de Vigencia
+
+Legislación Anterior
+
+Simulación EMT: <Definición adicionada por el artículo 84 (definición contenida en el artículo 3) de la Resolución 101 113 de 2026. El nuevo texto es el siguiente:> Es un método de análisis en el dominio del tiempo para encontrar la solución circuital y que usa pasos de tiempo en el orden de microsegundos. Utiliza ecuaciones diferenciales detalladas de los elementos modelados, lo que permite representar con alta fidelidad los efectos de transitorios rápidos, oscilaciones sub-ciclo, eventos de conmutación e interacción entre diferentes equipos, controladores y la red.
+
+Notas de Vigencia
+
+Simulación RMS: <Definición adicionada por el artículo 84 (definición contenida en el artículo 3) de la Resolución 101 113 de 2026. El nuevo texto es el siguiente:> También conocida como simulación en el dominio fasorial, es un método de solución circuital que calcula la solución de las variables a lo largo de un ciclo, proporcionando resultados de estado estable con rapidez, pero omitiendo detalles transitorios.
+
+Notas de Vigencia
+
+Sistema de almacenamiento de energía eléctrica, SAE: <Definición adicionada por el artículo 84 (definición contenida en el artículo 3) de la Resolución 101 113 de 2026. El nuevo texto es el siguiente:> es un sistema de almacenamiento de energía de cualquier tecnología, con sus correspondientes equipos de conexión, corte, control y protección, que se utiliza para cargar energía eléctrica y almacenarla temporalmente para su posterior entrega al sistema. También hacen parte la interfaz electrónica y el (los) sistema(s) de medición requerido(s).
+
+Notas de Vigencia
+
+Sistema de almacenamiento de energía eléctrica con baterías, SAEB: <Definición adicionada por el artículo 84 (definición contenida en el artículo 3) de la Resolución 101 113 de 2026. El nuevo texto es el siguiente:> es un sistema de almacenamiento de energía, incluido dentro de la categoría de SAE, que se basa en la instalación de grupos de baterías electroquímicas.
+
+Notas de Vigencia
+
+Sistema de transmisión nacional. Es el sistema interconectado de transmisión de energía eléctrica compuesto por el conjunto de líneas y subestaciones con sus equipos asociados, y transformadores con sus respectivos módulos de conexión, que operan a tensiones iguales o superiores a 220 kV. 
+
+Sistema de transmisión regional. Sistema interconectado de transmisión de energía eléctrica compuesto por redes regionales o interregionales de transmisión; conformado por el conjunto de líneas y subestaciones, con sus equipos asociados, que operan a tensiones menores de 220 kV y que no pertenecen a un sistema de distribución local. 
+
+Sistema de distribución local. Sistema de transmisión de energía eléctrica compuesto por redes de distribución municipales o distritales; conformado por el conjunto de líneas y subestaciones, con sus equipos asociados, que operan a tensiones menores de 220 kV que no pertenecen a un sistema de transmisión regional por estar dedicadas al servicio de un sistema de distribución municipal, distrital o local. 
+
+Sistema de Intercambios Comerciales (SIC). Conjunto de reglas y procedimientos establecidos en el Reglamento de Operación que permiten definir las obligaciones y acreencias de generadores, comercializadores y los transportadores por concepto de los actos o contratos de energía en la bolsa conforme al despacho central. El SIC incluye el proceso de liquidación del valor de los intercambios, la preparación y actualización del estado de cuenta de cada generador y comercializador que participa en la bolsa de energía y de los transportadores, y la facturación, pago y recaudo del valor de las transacciones realizadas en la misma bolsa. 
+
+Sistema Interconectado Nacional. Es el sistema compuesto por los siguientes elementos conectados entre si: las plantas y equipos de generación, la red de interconexión, las redes de transmisión, las redes de distribución y las cargas eléctricas de los usuarios, conforme a lo definido en la Ley 143 de 1994. 
+
+Superintendencia. La Superintendencia de Servicios Públicos Domiciliarios creada por la Ley 142 de 1994, como organismo de control, inspección y vigilancia de las entidades que prestan los servicios públicos. 
+
+Tiempo de establecimiento (Te) para SAEB: <Definición adicionada por el artículo 84 (definición contenida en el artículo 3) de la Resolución 101 113 de 2026. El nuevo texto es el siguiente:> Tiempo que tardan los valores instantáneos de las variables de interés, en alcanzar el cambio esperado, manteniéndose dentro de una banda entre +20 % y -10 %. Debe ser máximo de 3 ciclos, es decir 50 ms. Si se consideran valores RMS o de secuencia positiva, el tiempo se puede extender hasta un ciclo, resultando en un tiempo final correspondiente a 4 ciclos a 60 Hz.
+
+Notas de Vigencia
+
+Tiempo de respuesta (Tr) para SAEB: <Definición adicionada por el artículo 84 (definición contenida en el artículo 3) de la Resolución 101 113 de 2026. El nuevo texto es el siguiente:> Tiempo que tardan las variables instantáneas de interés, en alcanzar el 90 % del delta de cambio esperado con una banda de tolerancia del 5 %. Debe ser menor a 8 ms. Si se consideran valores RMS o de secuencia positiva, el tiempo se puede extender hasta un ciclo, resultando en un tiempo final de 25 ms.
+
+Notas de Vigencia
+
+Transmisión. Es la actividad consistente en el transporte de energía por sistemas de transmisión y la operación, mantenimiento y expansión de sistemas de transmisión, ya sean nacionales o regionales. 
+
+Transportador. Persona natural o jurídica que opera y transporta energía eléctrica en el sistema de transmisión nacional, en un sistema de transmisión regional o en un sistema de distribución local.
+
+Doctrina Concordante
+
+ARTICULO 2o. OBJETIVO. Esta resolución tiene el propósito de: 
+
+a) Establecer un conjunto de reglas que regulen el funcionamiento del mercado mayorista en los aspectos relacionados con las transacciones comerciales realizadas entre los agentes que participan en ese mercado: contratos de energía a largo plazo, contratos de energía en la bolsa, prestación de servicios asociados de generación y tratamiento de las restricciones en las redes de transmisión y distribución. 
+
+b) Proveer a los agentes participantes del mercado mayorista de un conjunto de reglas que faciliten la formación de actos y contratos que tengan por objeto la enajenación y adquisición de energía eléctrica en la bolsa de energía, y su cumplimiento con la ayuda del Administrador del Sistema de Intercambios Comerciales. 
+
+c) Fijar las reglas que permitan determinar, liquidar, y pagar las obligaciones pecuniarias que resulten entre los agentes participantes del mercado mayorista, por los actos o contratos sobre energía que se efectúen en la bolsa de energía. 
+
+d) Facilitar la competencia entre todos los agentes participantes del mercado mayorista 
+
+ARTICULO 3o. CONTENIDO. Esta resolución contiene las reglas y procedimientos para el manejo de información, liquidación de cuentas en la bolsa de energía, pago de servicios asociados de generación, pago por restricciones de transmisión y distribución, cobro y recaudo de facturas por transacciones realizadas en el mercado mayorista que forman parte del Sistema de Intercambios Comerciales. Igualmente, define las obligaciones y derechos de los agentes que participan en dicho mercado. 
+
+PARAGRAFO. Los procedimientos minuciosos utilizados por el Administrador del SIC, y los programas de computador correspondientes estarán a disposición de los agentes del mercado mayorista en las oficinas del Administrador del SIC, debidamente certificados por la auditoría a esta entidad. 
+
+ARTICULO 4o. ELEMENTOS DEL SISTEMA INTERCONECTADO NACIONAL. Para efectos del funcionamiento del mercado mayorista, el Sistema Interconectado Nacional se considera dividido en Centros de Generación, Sistema de Transmisión Nacional, Sistemas de Transmisión Regional y Sistemas de Distribución Local. Igualmente, existe un sistema para coordinación y control de la operación del sistema conformado por el Centro Nacional de Despacho (CND) y los Centros Regionales de Despacho (CRDs). 
+
+ARTICULO 5o. AGENTES DEL MERCADO MAYORISTA. Son agentes del mercado mayorista: los generadores, los comercializadores y los transportadores. Los transportadores son agentes del mercado mayorista que no realizan compraventa de energía, sino que participan en los procesos de reconciliación por las restricciones del Sistema de Transmisión Nacional, del Sistema de Transmisión Regional y del Sistema de Distribución Local, y para la evaluación de pérdidas en el Sistema de Transmisión Nacional. El representante de los transportadores en el mercado mayorista es Interconexión Eléctrica S.A. "E.S.P.", con los deberes y derechos que acuerden las partes, mediante convenio especial que se debe efectuar para esta delegación. Las interconexiones internacionales son representadas por uno o más agentes en el mercado mayorista debidamente registrados ante el Administrador del SIC. 
+
+Doctrina Concordante
+
+ARTICULO 6o. CUMPLIMIENTO DE CONDICIONES MINIMAS. <Ver Notas de Vigencia, en relación con la modificación introducida por la Resolución 156 de 2011> Los agentes que participan en el mercado mayorista deben cumplir las siguientes condiciones mínimas: 
+
+a) Las definidas en las resoluciones CREG 054, 055 y 056 de 1994, y las que las modifiquen. 
+
+b) Registrarse como agente del mercado mayorista ante el Administrador del SIC. 
+
+c) Suministrar la información de generación y demanda con la periodicidad que se indique en la presente resolución y en la forma que lo define el Código de Redes. 
+
+d) Presentar las garantías financieras definidas en la presente resolución o realizar los pagos anticipados, en caso de ser necesario. 
+
+e) <Literal modificado por el artículo 86 de la Resolución 101 113 de 2026. El nuevo texto es el siguiente:> Los generadores deben operar las plantas de generación (sea generador, cogenerador, autogenerador, recurso de generación hibrido u otros) sometidas al despacho central según las reglas de despacho definidas en el Código de Redes. También deberán operar los SAEB independientes que por defecto son sometidos al despacho central. 
+
+Notas de Vigencia
+
+Legislación Anterior
+
+f) Suministrar la información establecida en esta resolución en los tiempos y en la forma requeridos para el funcionamiento adecuado del Sistema de Intercambios Comerciales (SIC), 
+
+g) Los comercializadores y generadores se obligan a participar en la Bolsa de Energía. 
+
+h) Someterse a la liquidación que haga el Administrador del SIC de todos los actos y contratos de energía en la bolsa, para que pueda determinarse, en cada momento apropiado, el monto de sus obligaciones y derechos frente al conjunto de quienes participan en el sistema, y cada uno de ellos en particular. 
+
+i) Incluir dentro de su presupuesto las apropiaciones mínimas que se requieren para efectuar oportunamente los pagos de sus obligaciones con la Bolsa de Energía. 
+
+j) Someterse a los sistemas de pago y compensación que aplique el Administrador del SIC, según lo previsto en esta resolución, para hacer efectivas las liquidaciones aludidas. 
+
+k) Todos los actos y contratos que hayan de cumplirse por medio del Administrador del SIC, serán a título oneroso. 
+
+Notas de Vigencia
+
+Doctrina Concordante
+
+ARTICULO 7o. OPERACIONES EN EL MERCADO MAYORISTA. En el mercado mayorista se realizan las siguientes operaciones: 
+
+a) Contratos de Energía a largo plazo: son aquellos en que generadores y comercializadores pactan libremente las condiciones, cantidades, y precios para la compra y venta de energía eléctrica a largo plazo. 
+
+b) Contratos de Energía en la Bolsa: Son aquellos que se celebran a través del Administrador del SIC, para la enajenación hora a hora de energía, y cuyos precios, cantidades, garantías, liquidación y recaudo se determinan por la presente resolución y por el acuerdo de las partes en las reglas del SIC. 
+
+c) Prestación de servicios asociados de generación de energía a la empresa de transmisión nacional para asegurar el cumplimiento de las normas sobre calidad, confiabilidad y seguridad del servicio de electricidad. 
+
+ARTICULO 8o. SERVICIOS EN EL MERCADO MAYORISTA. El Administrador del SIC solo prestará sus servicios a los agentes participantes del mercado mayorista para formar y cumplir los actos y contratos que tengan por objeto la adquisición o enajenación de energía eléctrica y los servicios asociados de generación, cuando estas se comprometan por escrito, a que: 
+
+a) Sus relaciones con el Administrador del SIC se regirán por lo aquí dispuesto; 
+
+b) Las relaciones entre los participantes del mercado mayorista, para la formación y cumplimiento de todos los actos y contratos que celebren para la adquisición y enajenación a título oneroso, de energía eléctrica y los servicios asociados de generación de energía, que impliquen transacciones en la bolsa de energía, se regirán por lo aquí dispuesto. 
+
+PARAGRAFO. Las empresas que deseen participar del mercado mayorista se dirigirán al Administrador del SIC, informándole por escrito que conocen y aceptan los términos de la presente resolución. 
+
+ARTICULO 9o. FRONTERAS COMERCIALES. Son fronteras comerciales en el mercado mayorista el punto de conexión de generadores y comercializadores a las redes del Sistema de Transmisión Nacional, a los Sistemas de Transmisión Regional o a los Sistemas de Distribución local. Esta frontera solo define el punto de medición, pero no la responsabilidad por las pérdidas en los sistemas de transmisión y distribución. Por lo tanto, cada agente participante del mercado mayorista puede tener uno o más puntos de frontera comercial. 
+
+Doctrina Concordante
+
+ARTICULO 10. SISTEMAS DE MEDICION Y COMUNICACIONES. Cada agente debe contar con los siguientes sistemas de medición y comunicación para envío de información al Administrador del SIC para el proceso de evaluación de las transacciones en el mercado: 
+
+a) Un sistema de medición comercial, destinado a la medición, registro y transmisión de la información necesaria para la liquidación de las transacciones comerciales en el mercado mayorista. 
+
+b) Un sistema de comunicaciones que soporta al sistema de medición comercial, conteniendo enlaces de voz, datos y facsímil. 
+
+PARAGRAFO. Estos sistemas deben cumplir con las condiciones técnicas especificadas y con los métodos alternativos de respaldo definidos en el Código de Redes. 
+
+Doctrina Concordante
+
+ARTICULO 11. REGISTRO DE LOS AGENTES DEL MERCADO MAYORISTA. <Artículo derogado por el artículo 14 de la Resolución 31 de 2021> 
+
+Notas de Vigencia
+
+Legislación Anterior
+
+ARTICULO 12. RETIRO DEL MERCADO MAYORISTA DE ENERGÍA DE AGENTES QUE NO TENGAN OBLIGACIONES DE ENERGÍA FIRME ASIGNADAS. <Ver Notas de Vigencia, en relación con la modificación introducida por la Resolución 156 de 2011> <Artículo modificado por el Anexo 1, numeral 1.6.2 de la Resolución 71 de 2006. El nuevo texto es el siguiente:> Son causales para el retiro del mercado mayorista de los agentes que no tengan Obligaciones de Energía Firme asignada, las siguientes:
+
+1. Por retiro voluntario del agente, previo cumplimiento de todas sus obligaciones con el mercado mayorista.
+
+2. Por dejar de cumplir sus requisitos como agente del mercado mayorista, definidos en el artículo 6o de la presente resolución.
+
+Doctrina Concordante
+
+3. Por haber entrado en proceso de liquidación.
+
+4. Por sanción impuesta por la Superintendencia, ante las causas graves que determine la CREG.
+
+5. Por incumplimiento. El Administrador del SIC o cualquiera de las empresas víctimas del incumplimiento de un acto o contrato de energía en la bolsa, puede pedir a la CREG que solicite a la Superintendencia de Servicios Públicos Domiciliarios la intervención de la empresa incumplida.
+
+PARÁGRAFO 1o. Si una de las empresas contratantes se encuentra en situación de disolución, deberá, en todo caso, cumplir los contratos a su cargo que sean indispensables para no interrumpir la prestación de los servicios que regulan las Leyes 142 y 143 de 1994 y que estén a su cargo. Al presentarse la causal de disolución, la empresa participante en el mercado mayorista dará aviso a la Superintendencia de Servicios Públicos Domiciliarios, a la Nación a través del Ministerio de Minas y Energía, a la CREG y al Administrador del SIC.
+
+PARÁGRAFO 2o. Si una de las empresas participantes del mercado mayorista entra en proceso de liquidación, la autoridad competente puede negociar la cesión de sus contratos a otras empresas para que sustituyan a la primera en el cumplimiento de sus obligaciones o en el ejercicio de sus derechos; de lo cual dará aviso al Administrador del SIC para que este registre la cesión de los contratos. En todos los contratos entre los agentes del mercado mayorista que hayan de cumplirse por medio del Administrador del SIC se entiende que cada parte acepta las cesiones de sus derechos que pueda hacer la otra en favor de la Nación. 
+
+PARÁGRAFO 3o. Cuando, por cualquier causa, una empresa decida que no seguirá participando del mercado mayorista para formar y cumplir actos y contratos con este, dará aviso al Administrador del SIC con cuatro meses de anticipación, por lo menos; y mientras ese período transcurre la empresa seguirá estando sujeta a las normas de la presente resolución, y el Administrador del SIC podrá hacer, por sí mismo, las liquidaciones, y afectar las cuentas o hacer exigibles las garantías que considere del caso.
+
+PARÁGRAFO 4o. <Parágrafo 4o. derogado por el artículo 12 de la Resolución 84 de 2007>. <Ver Notas del Editor> 
+
+Notas del Editor
+
+Notas de Vigencia
+
+Legislación Anterior
+
+Notas de Vigencia
+
+Concordancias
+
+Legislación Anterior
+
+ARTICULO 13. INFORMACIÓN A SUMINISTRAR. La información requerida de los agentes y la distribución de información a aquellos se especifica en el Anexo A de la presenta resolución. 
+
+ARTICULO 14. REGISTRO DE CONTRATOS DE ENERGÍA. Todos los contratos de energía a largo plazo que se celebren entre comercializadores y generadores y se liquiden en la bolsa de energía se registrarán ante el Administrador del SIC. Las partes contratantes deberán estar registrados ante el Administrador del SIC y otorgar las garantías definidas en esta resolución. El procedimiento para registrar contratos se establece en el Anexo D de la presente resolución. 
+
+PARAGRAFO. Copia de estos contratos se remitirán, simultáneamente al registro, a la Comisión para efectos de su ejercicio regulatorio. 
+
+ARTICULO 15. CONTENIDO DE LOS CONTRATOS. La forma, contenido y condiciones establecidas en los contratos de energía podrán pactarse libremente entre las partes. Sin embargo, para que estos contratos puedan liquidarse en la bolsa de energía deben contener: la identidad de las partes contratantes; reglas o procedimientos claros para determinar hora a hora, durante la duración del contrato, las cantidades de energía a asignar bajo el contrato y el respectivo precio, en forma consistente con los procedimientos de liquidación establecidos en esta resolución. 
+
+Jurisprudencia Concordante
+
+ARTICULO 16. CUMPLIMIENTO DE OBLIGACIONES EN LOS CONTRATOS. Para efectos de la liquidación de transacciones realizadas por los agentes en la bolsa de energía los contratos de energía serán asignados por el Administrador del SIC de acuerdo con los procedimientos establecidos en esta resolución. El Administrador del SIC no responde por el cumplimiento de las obligaciones que las partes de los contratos de energía asumen recíprocamente. Las obligaciones del Administrador del SIC no se enmarcan como comercializador, ni dentro del proceso de compraventa de energía, sino que son de apoyo para este proceso, para lo cual actúa en la ejecución de los contratos por el mandato dado por las empresas participantes en el mercado mayorista, por cuenta y riesgo de éstos. 
+
+ARTICULO 17. CESION DE CONTRATOS. La cesión de los contratos de energía a largo plazo a otro comercializador o generador se debe reportar con una anticipación mínima de dos (2) días calendario a la fecha de aplicación de la cesión. 
+
+ARTICULO 18. TERMINACION DE CONTRATOS. <Artículo modificado por el artículo 3 de la Resolución 38 de 2010. El nuevo texto es el siguiente:> En caso de terminación de un contrato, es obligación de las partes involucradas informar con una anticipación mínima de siete (7) días calendario a la fecha de finalización del contrato, para que el Administrador del SIC deje de considerarlo en la comercialización en el mercado mayorista a partir de la fecha de terminación. El Administrador del SIC informará a los agentes del mercado mayorista involucrados el registro de la terminación del contrato. En el caso que uno de los agentes involucrados en la terminación de contratos, no esté cumpliendo con las obligaciones como agente del mercado mayorista se informará a la Superintendencia de Servicios Públicos Domiciliarios para lo de su competencia.
+
+Jurisprudencia Concordante
+
+Cuando en el contrato se haya pactado la terminación unilateral, bastará con que una de las partes informe al ASIC que se ha producido la terminación del contrato. Esta parte será responsable de los daños y perjuicios que se ocasionen si la terminación informada no se sustenta en las causales de terminación previstas en el contrato.
+
+Notas de Vigencia
+
+Legislación Anterior
+
+ARTICULO 19. PARTICIPANTES EN LA BOLSA DE ENERGÍA. Las empresas que desarrollan actividades de comercialización y generación tienen la obligación de participar en la Bolsa de Energía, según las disposiciones de la CREG. 
+
+ARTICULO 20. OBJETIVOS DE LA BOLSA DE ENERGIA. La bolsa de energía tiene los siguientes objetivos principales: 
+
+a) establecer y operar un sistema de transacciones de energía en bloque que dé incentivos a generadores y comercializadores para asegurar que se produzcan y consuman cantidades óptimas de electricidad en la forma más eficiente posible. 
+
+b) proveer un conjunto de reglas que determinen las obligaciones y acreencias financieras de los agentes participantes en la bolsa, por concepto de transacciones de energía y del suministro de servicios complementarios de energía. 
+
+c) facilitar el establecimiento de un mercado competitivo de electricidad. 
+
+ARTICULO 21. FUNCIONAMIENTO DE LA BOLSA DE ENERGIA. Las transacciones comerciales en la bolsa de energía se evaluarán y administrarán de acuerdo a los procesos y procedimientos establecidos en el Anexo A de la presente resolución. 
+
+ARTICULO 22. GARANTÍAS PARA LOS PARTICIPANTES EN LA BOLSA DE ENERGÍA. El cumplimiento de todas aquellas obligaciones de generadores y comercializadores, que se formen en el mercado mayorista a través de la Bolsa de Energía, entre sí o respecto de los transportadores, será objeto de garantías a favor del administrador del SIC, de acuerdo con las condiciones y procedimientos establecidos en el Anexo C de la presente resolución. 
+
+ARTICULO 23. FACTURACIÓN, COBRANZAS Y LIQUIDACIÓN EN LA BOLSA DE ENERGÍA. La liquidación, facturación y cobranza de las transacciones comerciales en la bolsa de energía se efectuará de acuerdo a las reglas y procedimientos establecidos en el Anexo B de la presente resolución.
+
+Concordancias
+
+ARTICULO 24. SERVICIOS COMPLEMENTARIOS DE ENERGÍA. Los servicios complementarios de energía comprenden la capacidad de generación de respaldo, el cargo de potencia en la bolsa y los servicios asociados de generación. Los dos primeros se liquidarán y facturarán en forma transitoria de acuerdo a lo dispuesto en la resolución CREG-053 de 1994 y las normas complementarias sobre oferta de capacidad de generación de respaldo establecidas en el Anexo E de la presente resolución. Los servicios asociados de generación se liquidarán y facturarán de acuerdo con los procedimientos y metodologías que se establecerán en resolución aparte de la CREG. 
+
+ARTICULO 25. FUERZA MAYOR O CASO FORTUITO. Se consideran eventos de fuerza mayor aquellos causados por fenómenos naturales o eventos que atenten contra la infraestructura de comunicaciones dispuesta para el reporte de las mediciones y que afecten el suministro de información para la liquidación de las transacciones en la Bolsa de Energía. Ante la ocurrencia de estos eventos que causen incapacidad para la realización de las actividades del Administrador del SIC, se modifican los plazos para reporte de información del Administrador del SIC a los agentes del mercado mayorista. 
+
+ARTICULO 26. REVISION DE LOS ASPECTOS COMERCIALES. Las revisiones y cambios a las reglas y procedimientos establecidos en la presente resolución para reglamentar los aspectos comerciales del mercado mayorista deberán ser aprobados por la Comisión. Los procedimientos minuciosos que mantiene el Administrador del SIC a disposición de los agentes del mercado mayorista podrán ser modificados, previa aprobación de la Comisión, y serán certificados por la auditoría al Administrador del SIC. 
+
+PARAGRAFO. El Consejo Nacional de Operación, el Subcomité de Revisión y Vigilancia del SIC, los agentes del mercado mayorista y el Administrador del SIC podrán presentar a la Comisión solicitudes de revisión. La Comisión realizará el estudio de las solicitudes y expedirá las modificaciones a que hubiere lugar. 
+
+ARTICULO 27. COMITE ASESOR DE COMERCIALIZACION. <Artículo modificado por el artículo 1 de la Resolución 123 de 2003. El nuevo texto es el siguiente:> Créase el Comité Asesor de Comercialización para asistir a la Comisión en el seguimiento y la revisión de los aspectos comerciales del Mercado de Energía Mayorista. 
+
+El Comité estará compuesto por los siguientes grupos de agentes:
+
+i) Cuatro (4) representantes de las empresas que desarrollan conjuntamente las actividades de generación y comercialización;
+
+ii) Cuatro (4) representantes de las empresas que desarrollan conjuntamente las actividades de distribución y comercialización;
+
+iii) Cuatro (4) representantes de las empresas que desarrollan exclusivamente la actividad de comercialización. 
+
+Adicionalmente participará (1) representante del Administrador del SIC o quien haga sus veces, con voz pero sin voto.
+
+La elección de los miembros del CAC se realizará cada año, para un período de doce (12) meses. Los representantes de cada grupo de agentes definido anteriormente, se seleccionarán de la siguiente forma: 
+
+a) Un (1) delegado de la empresa con mayor demanda anual abastecida como comercializador (Medida en GWh a 31 de diciembre del año inmediatamente anterior). Dicho representante tendrá derecho propio para participar en el Comité. No podrán participar en este grupo aquellos delegados de empresas que tengan representantes en el Consejo Nacional de Operación;
+
+b) Tres (3) representantes que serán elegidos por los miembros que conforman cada grupo de agentes. Para ello se ordenarán las empresas de mayor a menor demanda, después de extraer la demanda del agente elegido según el literal a), y se agruparán en tres subgrupos, en iguales proporciones a la demanda, cada uno de los cuales elegirá por mayoría de votos a un representante al Comité. No podrán participar en este grupo aquellos delegados de empresas que tengan representantes en el Consejo Nacional de Operación; 
+
+c) El miembro con derecho propio del que trata el literal a) no se tendrá en cuenta para la conformación de los subgrupos, ni en la elección de los representantes. Para la conformación de los subgrupos, los comercializadores que no atiendan demanda final serán considerados en el rango menor de demanda. 
+
+PARÁGRAFO 1o. Para establecer la composición del Comité Asesor de Comercialización deberán considerarse los siguientes criterios:
+
+a) Una empresa integrada verticalmente en dos actividades o más, no podrá tener más de un (1) representante en el Comité;
+
+b) Las empresas generadoras deben estar registradas como tales en el Mercado Mayorista;
+
+c) Las empresas distribuidoras deben tener cargos de distribución aprobados por la CREG y vigentes al 31 de diciembre del año anterior al de conformación o revisión de la composición del CAC;
+
+d) Las empresas comercializadoras deben estar registradas como tales en el Mercado Mayorista;
+
+e) Las empresas integradas verticalmente en más de dos actividades, deben manifestar a qué grupo, de los que trata este artículo, desean pertenecer. Esta opción de elección de grupo se podrá ejercer por una sola vez durante la vigencia anual de la operación del CAC que se esté conformando y no será susceptible de modificación alguna durante el período. 
+
+f) Si alguno de los agentes participantes del mercado mayorista de energía tuviera conocimiento de alguna violación a lo que aquí se dispone, podrá solicitar a la CREG la suspensión de la participación del agente o agentes involucrados en el Comité. La CREG solicitará la información que considere pertinente, de acuerdo con lo dispuesto en el artículo 73 de la Ley 142 de 1994;
+
+g) Las empresas vinculadas económicamente en los términos de la Ley 142 de 1994, no podrán tener más de un representante en el Comité.
+
+La composición del Comité Asesor de Comercialización será revisada cuando la posición relativa de las empresas experimente cambios objetivos. Se entienden como cambios objetivos: 
+
+a) Se dé por iniciado o finalizado el desarrollo de una actividad de una empresa en el mercado;
+
+b) Se fusionen o escindan empresas. 
+
+PARÁGRAFO 2o. En caso que un agente deje de ser parte del Comité, el subgrupo del cual provenía elegirá a su nuevo representante ante el CAC. 
+
+PARÁGRAFO 3o. El Comité elegirá entre sus miembros, un Presidente, por un período de un (1) año, prorrogable. También podrá designar un Secretario Técnico, quien será un profesional independiente sin vinculación con alguno de los agentes del mercado. El Secretario Técnico será elegido por período de un año prorrogable.
+
+PARÁGRAFO 4o. El Comité asesorará a la Comisión de Regulación de Energía y Gas, en los siguientes aspectos:
+
+a) Seguimiento del SIC en forma regular, incluyendo los índices de desempeño del Administrador del SIC en la operación del sistema. Lo anterior, sin perjuicio de lo dispuesto en el Parágrafo 3o del artículo 31 de la Resolución CREG 024 de 1995;
+
+b) Realizar una revisión anual de los procedimientos del SIC y enviar a la Comisión un reporte de los resultados;
+
+c) Apoyar a las Auditorías que se designen, de acuerdo con lo estipulado en la Resolución CREG 024 de 1995, en los procesos a ejecutar;
+
+d) Analizar y recomendar cambios a las reglas comerciales de la Bolsa y de la actividad de comercialización en el Mercado Mayorista, así como cualquier otro aspecto del SIC y del mercado que involucre aspectos que afecten a la actividad de comercialización de energía; 
+
+e) Recomendar pronta y eficazmente propuestas de solución a diferencias sometidas a su consideración en relación con el SIC;
+
+f) Dentro de los límites de confidencialidad permitidos, realizar un seguimiento general de litigios, arbitrajes, o cualquier otro proceso que afecte al SIC;
+
+g) Sin perjuicio de las funciones atribuidas a la Superintendencia de Servicios Públicos Domiciliarios, hacer seguimiento a las quejas de los participantes en la bolsa de energía en relación con su reglamento, con el sistema de liquidación de cuentas, o cualquier otro procedimiento asociado con el SIC;
+
+h) Remitir a la CREG trimestralmente, en cumplimiento de lo dispuesto en la Resolución CREG 063 de 2000, un informe detallado sobre la Generación de Seguridad a la cual le haya sido aplicada la disposición establecida en el artículo 6o, Parágrafo 1o, de dicha resolución;
+
+i) Identificar y notificar a los miembros participantes en el Comité, teniendo en cuenta el mecanismo de elección de que trata este reglamento. 
+
+PARÁGRAFO 5o. El Comité se reunirá por lo menos una vez al mes, y extraordinariamente, cuando así lo solicite por lo menos la tercera parte de sus miembros. No serán válidas las reuniones no presenciales y los miembros, en el evento de no poder asistir a una reunión del Comité no podrán delegar su representación. 
+
+PARÁGRAFO 6o. Las actas, los reportes, recomendaciones y/o propuestas que desarrolle el Comité en cumplimiento de sus funciones, serán presentadas por su presidente directamente y por escrito a la CREG. Los salvamentos de voto deberán estar sustentados por escrito y anexados a la respectiva acta. El orden del día, deberá conocerse por anticipado y en caso de requerirse, los temas deberán contar con un documento soporte. 
+
+PARÁGRAFO 7o. El Comité someterá a aprobación de la CREG el reglamento interno de funcionamiento.
+
+Notas de vigencia
+
+Legislación anterior
+
+ARTICULO 28. PROCEDIMIENTOS PARA SOLUCIÓN DE CONFLICTOS. <Artículo derogado por el artículo 12 de la Resolución 84 de 2007>
+
+Notas de Vigencia
+
+Legislación Anterior
+
+ARTICULO 29. RESPONSABILIDADES Y DEBERES DEL ADMINISTRADOR DEL SIC. Las siguientes son las responsabilidades del Administrador del SIC: 
+
+a) Realizar la operación diaria del SIC. 
+
+b) Realizar los respaldos de información definidos por las resoluciones de la CREG. 
+
+c) Mantener en forma segura los equipos, software e información del SIC. 
+
+d) Realizar la estimación de datos en el evento en que la información no se encuentre disponible en el momento requerido. 
+
+e) Asegurarse que los programas de computador se encuentren bien instalados y conforme a las especificaciones por medio de pruebas cuando se realicen cambios. 
+
+f) Modificar los programas de computador para implantar los cambios aprobados por la CREG a las reglas de funcionamiento del mercado mayorista en lo referente a los aspectos comerciales. 
+
+g) Conservar los registros de las pruebas realizadas. 
+
+h) Realizar recomendaciones para cambios en el sistema de información, facturación y bancos. 
+
+i) Establecer, operar y mantener el sistema de información para facturación y bancos, cumpliendo con los plazos previstos para transferencias de dineros. 
+
+j) Vigilar que los actos y contratos de las empresas en las transacciones de la bolsa de energía se ciñan a lo dispuesto en la presente resolución; y avisar a los interesados y a las autoridades; según el caso, si, a su juicio, hay incumplimiento de él. 
+
+k) Informar a la Superintendencia de Servicios Públicos Domiciliarios, y a la CREG, acerca de las violaciones o conductas contrarias a la presente resolución, y del cumplimiento de los actos y contratos para los cuales se haya pedido su colaboración. 
+
+l) Tener a disposición de los agentes registrados ante el Administrador del SIC la versión actualizada de las especificaciones funcionales de los programas de computador utilizados en el SIC, y la descripción de los procedimientos detallados utilizados para la administración del SIC. La versión actualizada debe ser consistente con los cambios aprobados por la CREG y certificados por la auditoría al Administrador del SIC. 
+
+m) Suministrar la información solicitada por la Comisión o por la Superintendencia. 
+
+PARAGRAFO 1o. El Administrador del SIC no responde por cualquier pérdida de beneficio a los participantes en la Bolsa de Energía, si se puede demostrar que ha actuado de buena fe y con la mejor información disponible. 
+
+PARAGRAFO 2o. Al cumplir las funciones a las que esta resolución se refiere, el Administrador del SIC actuará como administrador de recursos ajenos, y en interés de terceros, sin que los ingresos que recibe puedan aumentar su propio patrimonio, salvo por la parte que, de acuerdo con las tarifas que señale la CREG, equivalgan a la remuneración por sus servicios. 
+
+ARTICULO 30. REMUNERACION AL ADMINISTRADOR DEL SIC. Los costos de funcionamiento del Administrador del SIC serán cubiertos por los agentes participantes en el mercado mayorista, de acuerdo a las reglas y procedimientos que establecerá la CREG en resolución aparte. 
+
+Concordancias
+
+ARTICULO 31. AUDITORIAS. Las auditorías al Administrador del SIC deben tener el siguiente alcance: 
+
+a) Auditar todos los cálculos y asignaciones realizadas por el Administrador del SIC. 
+
+b) Auditar el sistema de facturación y bancos. 
+
+c) Probar y verificar la precisión de los cambios en el software del SIC. 
+
+d) Revisar los procesos acordados y el cumplimiento de las resoluciones de la CREG que afectan el mercado mayorista en el SIC. 
+
+e) Dar asistencia en los programas de trabajo al Administrador del SIC. 
+
+f) Auditar aquellos aspectos específicos del SIC solicitados por la CREG. 
+
+PARAGRAFO 1o. Los informes de auditoría deben incluir por lo menos un resumen de todas las auditorías y pruebas realizadas y las recomendaciones. Una copia de los informes debe ser entregada a la CREG. 
+
+PARAGRAFO 2o. Anualmente se debe realizar mínimo una auditoría al Administrador del SIC. Las auditorías adicionales que se requieran deben ser pagadas por quien las solicite. 
+
+PARAGRAFO 3o. <Parágrafo derogado por el artículo 5 de la Resolución 155 de 2011> 
+
+Notas de Vigencia
+
+Legislación Anterior
+
+PARAGRAFO 4o. Todos los agentes que participen en el mercado mayorista, el Administrador del SIC y el Centro Nacional de Despacho deben suministrar la información y permitir el acceso a información, procesos, personal y sistemas de computación que sean necesarios para que el Auditor pueda cumplir con sus funciones. 
+
+Concordancias
+
+ARTICULO 32. IMPUESTOS. En desarrollo de las actividades relacionadas con la presente resolución se aplicarán las normas tributarias vigentes. 
+
+ARTICULO 33. <VIGENCIA>. La presente resolución rige a partir de la fecha de su publicación en el Diario Oficial o en la Gaceta del Ministerio de Minas y Energía y deroga las disposiciones que le sean contrarias. 
+
+COMUNIQUESE, PUBLIQUESE Y CUMPLASE 
+
+Dada en Santafé de Bogotá, D. C., el día 13 de Julio de 1995
+
+JORGE EDUARDO COCK LONDOÑO 
+
+Presidente 
+
+EVAMARIA URIBE TOBON 
+
+Director Ejecutivo 
+
+ANEXO A. 
+
+REGLAS DE FUNCIONAMIENTO DE LA BOLSA DE ENERGIA. 
+
+1. BOLSA DE ENERGÍA. 
+
+1.1. PROCEDIMIENTOS. 
+
+Los procesos para la evaluación de las transacciones comerciales en la Bolsa de Energía se realizan a nivel horario y son los siguientes: 
+
+BALANCE. 
+
+En este proceso se realiza el cálculo del despacho ideal y de los consumos de energía para la asignación de los contratos de energía, con el fin de calcular los excesos o déficits para cada uno de los agentes participantes en los contratos, o para los que compran o venden energía directamente a través de la bolsa. La enajenación de energía, en cantidades superiores o inferiores a las asignadas en los contratos de energía a largo plazo, determina el objeto de los contratos de energía en la bolsa, cuyos precios se fijan según las reglas de la bolsa. 
+
+ASIGNACIÓN DE CONTRATOS DE ENERGÍA A LARGO PLAZO. 
+
+<Aparte modificado por el artículo 2o. de la Resolución CREG- 112 de 1998. El nuevo texto es el siguiente:> 
+
+En este proceso se analizan las condiciones establecidas en los contratos registrados ante el Administrador del SIC para cada agente comercializador, con el fin de determinar la cantidad de energía total asignable al agente para efectos del proceso de balance, y liquidar las diferencias respecto al despacho ideal a los precios de Bolsa correspondientes. 
+
+Notas de vigencia
+
+Legislación anterior
+
+DETERMINACIÓN DE LA DISPONIBILIDAD COMERCIAL. <Aparte modificado por el artículo 87 de la Resolución 101 113 de 2026. El nuevo texto es el siguiente:> 
+
+En este proceso para cada unidad o planta de generación (sea generador, cogenerador, recurso de generación hibrido, entre otros) o un SAEB independiente se determina su disponibilidad comercial con base en las disponibilidades reales y las características técnicas de los equipos.
+
+Notas de Vigencia
+
+Legislación Anterior
+
+CÁLCULO DE LOS PRECIOS DE BOLSA. <Ver Notas de Vigencia sobre las consideraciones a este artículo establecidas en el artículo 88 de la Resolución 101 113 de 2026>
+
+Notas de Vigencia
+
+<Aparte modificado por el artículo 28 de la Resolución 55 de 2011. Ver término para entrada en vigencia. El nuevo texto es el siguiente:> En este proceso se determinan los precios para las diferentes transacciones que se realizan en la Bolsa de Energía. Los precios horarios de Bolsa son iguales al precio de oferta en Bolsa de la Planta con Máximo Precio de Oferta, en la hora respectiva, más el Valor Adicional previsto en el Anexo A-4 de la Resolución CREG-024 de 1995, modificado por el artículo 8o de la Resolución CREG 051 de 2009 y aquellas que la modifiquen, complementen o sustituyan, correspondiente a los recursos de generación requeridos para cubrir en el despacho ideal: i) la demanda total doméstica; ii) la de exportaciones a Panamá; iii) la demanda internacional de despacho económico coordinado, y iv) la demanda no doméstica. 
+
+Dentro de este proceso las importaciones provenientes de las TIE y provenientes de Panamá, serán consideradas como un recurso con precio de oferta igual al Precio de Oferta del país exportador, en su Nodo Frontera para exportación, al cual se le deben adicionar los cargos asignados al transporte desde el Nodo frontera hasta el STN, si son del caso, el Costo Equivalente Real de Energía del Cargo por Confiabilidad, si aplica y los cargos propios de los generadores en el mercado Colombiano, asignándole además una disponibilidad comercial equivalente a la importación real. 
+
+Notas de Vigencia
+
+Legislación Anterior
+
+CÁLCULO DE LAS DESVIACIONES. 
+
+En este proceso se determina la diferencia para cada planta de generación que no participa en la regulación, entre el despacho programado y la generación real. Si esta diferencia excede una tolerancia definida se aplica un criterio de penalización establecido más adelante en este Anexo. 
+
+CÁLCULO DE LAS RESTRICCIONES DE TRANSMISIÓN. 
+
+En este proceso se concilian las diferencias entre el despacho real y el despacho ideal que corresponden a las restricciones en el sistema interconectado y se calcula el costo respectivo y su asignación a los agentes en el mercado mayorista. 
+
+1.1.1. PROCESO DE BALANCE. 
+
+1.1.1.1. DETERMINACIÓN DEL DESPACHO IDEAL. <Ver Notas de Vigencia sobre las consideraciones a este artículo establecidas en el artículo 89 de la Resolución 101 113 de 2026><Numeral modificado por el artículo 3 de la Resolución 101-28 de 2022. El nuevo texto es el siguiente:> 
+
+Notas de Vigencia
+
+El Despacho Ideal considerará las ofertas de precio en la Bolsa de Energía y de precio de arranque-parada de los generadores térmicos, considerando en el caso de plantas térmicas de ciclo combinado las configuraciones, las ofertas de precio en la Bolsa de Energía de los diferentes generadores y los Precios de oferta en el Nodo Frontera para exportación del país exportador. A estos últimos se les debe adicionar los cargos asignados al transporte desde el Nodo frontera hasta el STN, si son del caso; el Costo Equivalente Real de Energía del Cargo por Confiabilidad; y los cargos propios de los generadores en el mercado colombiano, necesarios para atender la demanda total para cada una de las horas del día en proceso. Para el caso de una importación, la disponibilidad comercial será considerada con un valor igual al de la importación real. Los precios considerados deberán tener en cuenta el resultado de la aplicación de la regla de desempate aplicada para el Despacho Programado.
+
+El Despacho Ideal será uno para el día, comprenderá los 24 períodos horarios y se determinará por medio del programa de Despacho Económico, el cual se ejecutará todos los días, con posterioridad a la operación real del sistema. Para cumplir con las características técnicas de las plantas o unidades térmicas, las condiciones iniciales del Despacho Ideal para el día t tendrán en cuenta las condiciones con las que finalizó el Despacho Real del día t-1; no tendrá en cuenta las restricciones en el Sistema Interconectado Nacional para atender la demanda total del sistema; y se efectuará con la disponibilidad comercial calculada en el SIC. El programa de despacho resultante, denominado Despacho Ideal, determinará los recursos disponibles de menor precio requeridos para atender la demanda total, sin considerar las restricciones del Sistema de Transmisión Nacional (STN), de los Sistemas de Transmisión Regional (STR) y la de los Sistemas de Distribución Local (SDL), existentes en la operación, y considerando las características técnicas de las unidades utilizadas en el despacho económico ejecutado para la operación real del sistema.
+
+El Despacho Ideal será tal que:
+
+Dentro de las configuraciones disponibles de cada planta térmica de ciclo combinado se debe seleccionar aquella que permita minimizar los costos del despacho. 
+
+Sujeto a estas restricciones:
+
+Características Técnicas
+
+Donde:
+
+iIndexa a los Generadores
+
+tIndexa las Horas del Día
+
+QGeneración
+
+PofOferta de Precio en la Bolsa de Energía
+
+ParOferta de Precio de arranque-parada de plantas térmicas que arrancan según el Despacho Ideal. El precio de arranque-parada de una planta que tenga varias unidades, es la suma de los precios de arranque-parada de las unidades que la componen de acuerdo con el estado.
+
+DDemanda.
+
+Notas de Vigencia
+
+Concordancias
+
+Legislación Anterior
+
+1.1.1.2. CÁLCULO HORARIO DE LAS PÉRDIDAS, DE LA DEMANDA Y DE LA GENERACIÓN REAL (VER DESCRIPCIÓN DETALLADA EN EL ANEXO A-1). 
+
+<Numeral modificado por el artículo 4o. de la Resolución CREG- 112 de 1998. El nuevo texto es el siguiente:> 
+
+En el proceso para determinar las demandas, generaciones y pérdidas en el Sistema de Transmisión Nacional a nivel horario se requiere de contadores en los puntos de suministro de los generadores, en las fronteras de los usuarios no regulados, en las fronteras de comercializadores que atienden consumidores localizados dentro del mercado de otro comercializador, y en las fronteras comerciales entre comercializadores y el Sistema de Transmisión Nacional. Cada contador perteneciente a una frontera comercial identifica a un agente exportador y a un agente importador. El Sistema de Transmisión Nacional es el agente exportador cuando se trata de contadores que miden flujo entre ésta y otra red de menor voltaje y es agente importador cuando el contador mide flujo en sentido contrario. 
+
+La demanda total del sistema horariamente, corresponde a la suma de la demanda comercial doméstica y la demanda comercial internacional. 
+
+Notas de vigencia
+
+Legislación anterior
+
+1.1.1.2.1. GENERACIÓN REAL DEL SISTEMA. <Artículo modificado por el artículo 11 de la Resolución 101 087 de 2025. Aplica a partir del 10 de marzo de 2026. Consultar el texto vigente hasta esta fecha en Legislación Anterior. El nuevo texto es el siguiente:> 
+
+La generación real del sistema horariamente se calcula como la sumatoria de las generaciones netas medidas a nivel horario para cada uno de los agentes generadores y en sus puntos frontera, y la misma tendrá en cuenta el valor absoluto del resultado negativo indicado en el literal d) del numeral 2.2 <sic, del artículo 24> (Exc_Neg), de la Resolución CREG 174 de 2021 y aquellas que la adicionen, modifiquen o sustituyan.
+
+La generación de cada agente generador se determina con base en las lecturas de su grupo de contadores. Cuando los contadores no se encuentren en el lado de alta tensión, se debe afectar la medida con el factor de pérdidas de la transformación. En cualquier caso, se debe considerar la generación neta, es decir, se debe excluir el consumo propio cuando se toman de su propia generación.
+
+Notas de Vigencia
+
+Legislación Anterior
+
+1.1.1.2.2. PÉRDIDAS REALES EN EL SISTEMA DE TRANSMISIÓN NACIONAL. 
+
+Las pérdidas horarias reales en el Sistema de Transmisión Nacional se calculan como la diferencia entre la sumatoria de las importaciones y exportaciones de energía a nivel horario en los puntos de frontera comercial del Sistema de Transmisión Nacional. 
+
+1.1.1.2.3. MEDICIONES AGREGADAS DE COMERCIALIZADORES. 
+
+<Numeral modificado parcialmente por la Resolución 39 de 1999. Consultar Resolución 39 de 1999> <Numeral modificado por el artículo 5o. de la Resolución CREG- 112 de 1998. El nuevo texto es el siguiente:> 
+
+El consumo horario de un comercializador se determina con base en la sumatoria de sus importaciones menos la sumatoria de sus exportaciones en cada una de sus fronteras comerciales a nivel horario. Cuando se tiene un generador embebido en el área delimitada por las fronteras comerciales de un comercializador, esta generación medida se considera como una importación del comercializador. Cuando la generación embebida es mayor que la demanda del área delimitada (el área es exportadora), las pérdidas desde el nivel de tensión donde se encuentra la medida del generador hasta el STN donde se encuentra el comercializador ocasionadas por esa exportación, calculadas con los factores de pérdidas que se mencionan adelante, se reflejan como un consumo del generador y se le restan al consumo del comercializador. 
+
+Cuando la medición de una demanda de un comercializador se encuentra en un nivel de tensión inferior a 220 kV, las medidas así tomadas se deben multiplicar por uno más el factor de pérdidas correspondiente, para considerar las pérdidas entre el nivel de tensión de la medida y el nivel de tensión del STN. 
+
+Los factores de pérdidas que se aplican para cada nivel de tensión son los establecidos en la Resolución CREG-099 de 1997 o las disposiciones que la modifiquen o sustituyan.
+
+Concordancias
+
+El consumo del comercializador horariamente debe ser incrementado por las pérdidas de referencia en el Sistema de Transmisión Nacional establecidas por la CREG y su asignación se realiza de acuerdo con la metodología establecida por esa entidad. Mientras que no se establezcan las pérdidas de referencia y la metodología de asignación, se considerarán las pérdidas de referencia iguales a las pérdidas reales y se asignarán en forma proporcional al consumo horario de cada comercializador. 
+
+Notas de vigencia
+
+Doctrina Concordante
+
+Legislación anterior
+
+1.1.1.2.4. MEDICIONES AGREGADAS DEL CONSUMO DE GENERADORES. 
+
+Para todos los generadores se suman las cantidades de energía tomadas del Sistema de Transmisión Nacional y en el caso de los generadores embebidos se agregan además las pérdidas por la energía exportada del generador en la red que lleva esta energía al Sistema de Transmisión Nacional. Es decir, si el valor total de la generación embebida es mayor que la demanda ajustada del comercializador donde se encuentra ubicado el generador, el generador asume las pérdidas ocasionadas en la red de distribución o de transmisión regional de este comercializador por la cantidad de energía no requerida por éste. Por lo tanto, el generador embebido asume las pérdidas necesarias para colocar la energía que exporta en las fronteras comerciales del Sistema de Transmisión Nacional. 
+
+1.1.2. PROCESO DE ASIGNACIÓN DE CONTRATOS DE ENERGÍA A LARGO PLAZO (VER DESCRIPCIÓN DETALLADA EN EL ANEXO A-3). 
+
+<Numeral modificado por el artículo 6o. de la Resolución CREG- 112 de 1998. El nuevo texto es el siguiente:> 
+
+Para cada agente comercializador se asignan horariamente sus contratos registrados ante el Administrador del SIC, en el siguiente orden de prioridades: 
+
+a- Contratos Mercado Doméstico 
+
+Primero se asignan los contratos que establezcan obligación de suministro y pago de cantidades fijas de energía firme (pague lo contratado). 
+
+Después se asignan los contratos que establezcan obligación de suministro y pago de cantidades fijas de energía firme (pague lo contratado condicional), por orden de mérito a partir del contrato de menor precio unitario por MWh 
+
+Finalmente se asignan los contratos tipo pague lo demandado por orden de mérito a partir del contrato de menor valor. 
+
+Un contrato se considera asignado en el mercado doméstico, cuando se requiere de él parcial o totalmente para atender el consumo del comercializador en el mercado doméstico, al ordenarlos por precios unitarios de menor a mayor. Si dentro del proceso de asignación de contratos, existen contratos con igual precio, requeridos para atender el consumo, estos contratos se consideran asignados, en forma total los pague lo contratado y en proporción a la cantidad contratada en los pague lo demandado. 
+
+Dentro del proceso de asignación de contratos se pueden presentar las siguientes circunstancias: 
+
+* Que los contratos no alcancen para atender el consumo real doméstico más pérdidas de referencia de un comercializador en el mercado doméstico. En este caso la diferencia entre el consumo horario real más las pérdidas de referencia, con los contratos asignados, se liquidan al precio de la Bolsa de Energía para las transacciones domésticas en la hora respectiva. 
+
+* Que sus contratos asignados por orden de méritos excedan la demanda real nacional más las pérdidas de referencia en el mercado doméstico. En este caso el excedente se remunera al comercializador al precio de la Bolsa de Energía para las transacciones domésticas en la hora respectiva. 
+
+El cálculo para cada generador se realiza al sumar las cantidades de los contratos respectivos que se hayan asignado a los comercializadores y a otros generadores en el mercado doméstico. 
+
+Si la sumatoria de las cantidades de energía de los contratos asignados con destino al mercado doméstico, excede la sumatoria de la generación en el despacho ideal de todas las unidades del generador para atender demanda comercial doméstica en la hora respectiva, dicho generador paga ese faltante al precio en la Bolsa de Energía para las transacciones domésticas en la hora correspondiente. 
+
+En caso contrario, el generador recibe por la generación adicional, que cubra demanda comercial doméstica, a la cantidad asignada en sus contratos en el mercado doméstico, una remuneración correspondiente al producto de la cantidad adicional por el precio en la Bolsa de Energía para las transacciones domésticas en la hora respectiva. 
+
+Con el Sistema de Transmisión Nacional se evalúa horariamente la diferencia entre las pérdidas de referencia que establezca la CREG y las pérdidas reales totales. Los transportadores reciben o pagan a la Bolsa la diferencia entre las pérdidas asociadas a la demanda doméstica, al precio en la Bolsa para las transacciones domésticas en la hora respectiva. 
+
+También en este proceso, se calculan los pagos para los generadores no despachados centralmente que son agentes del mercado mayorista registrados como generadores, ocasionados por las transferencias de energía de estos agentes, referidos a 220 kV en las fronteras del Sistema de Transmisión Nacional, los cuales se liquidan al precio en la Bolsa de Energía para las transacciones domésticas en la hora correspondiente. 
+
+Una vez terminado el proceso de asignación de contratos del mercado doméstico y cubierta la demanda comercial doméstica, se procede a la asignación de contratos con destino al mercado internacional, con la generación no requerida por la demanda comercial doméstica en el despacho ideal. 
+
+b- Contratos Mercado Internacional 
+
+Primero se asignan los contratos que establezcan obligación de suministro y pago de cantidades fijas de energía firme (pague lo contratado). 
+
+Después se asignan los contratos que establezcan obligación de suministro y pago de cantidades fijas de energía firme (pague lo contratado condicional), por orden de mérito a partir del contrato de menor precio unitario por MWh. 
+
+Finalmente se asignan los contratos tipo pague lo demandado por orden de mérito a partir del contrato de menor valor. 
+
+Un contrato se considera asignado en el mercado internacional, cuando se requiere de él parcial o totalmente para atender el consumo del comercializador en el mercado internacional, al ordenarlos por precios unitarios de menor a mayor. Si dentro del proceso de asignación de contratos, existen contratos con igual precio, requeridos para atender el consumo, estos contratos se consideran asignados, en forma total los pague lo contratado y en proporción a la cantidad contratada en los pague lo demandado. 
+
+Dentro del proceso de asignación de contratos se pueden presentar las siguientes circunstancias: 
+
+* Que los contratos no alcancen para atender el consumo real internacional más las pérdidas de referencia de un comercializador en el mercado internacional. En este caso la diferencia entre el consumo horario real más las pérdidas de referencia, con los contratos asignados, se liquidan al precio de la Bolsa de Energía para las transacciones internacionales (exportaciones) en la hora respectiva. 
+
+* Que sus contratos asignados por orden de méritos excedan la demanda real internacional más las pérdidas de referencia en el mercado internacional. En este caso el excedente se remunera al comercializador al precio de la Bolsa de Energía para las transacciones internacionales (exportaciones) en la hora respectiva. 
+
+El cálculo para cada generador se realiza al sumar las cantidades de los contratos respectivos que se hayan asignado a los comercializadores y a otros generadores en el mercado internacional. 
+
+Si la sumatoria de las cantidades de energía de los contratos asignados con destino al mercado internacional (exportaciones), excede la sumatoria de la generación en el despacho ideal de todas las unidades del generador para atender la demanda comercial internacional en la hora respectiva, dicho generador paga ese faltante al precio en la Bolsa de Energía para las transacciones internacionales (exportaciones) en la hora correspondiente. 
+
+En caso contrario, el generador recibe por la generación adicional a la cantidad asignada en sus contratos en el mercado internacional, una remuneración correspondiente al producto de la cantidad adicional por el precio en la Bolsa de Energía para las transacciones internacionales (exportaciones) en la hora respectiva. 
+
+Con el Sistema de Transmisión Nacional se evalúa horariamente la diferencia entre las pérdidas de referencia que establezca la CREG y las pérdidas reales totales. Los transportadores reciben o pagan a la Bolsa de Energía la diferencia entre las pérdidas asociadas a la demanda internacional, al precio en la Bolsa de Energía para las transacciones internacionales (exportaciones) en la hora respectiva. 
+
+Notas de vigencia
+
+Legislación anterior
+
+1.1.3. PROCESO DE DETERMINACIÓN DE LA DISPONIBILIDAD COMERCIAL (VER DESCRIPCIÓN DETALLADA DEL PROCESO EN EL ANEXO A-2). <Ver Notas de Vigencia sobre las consideraciones a este artículo establecidas en el artículo 90 de la Resolución 101 113 de 2026>
+
+Notas de Vigencia
+
+El proceso para la determinación de la disponibilidad a ser utilizada en el SIC, parte de la disponibilidad horaria declarada utilizada en el proceso de redespacho realizado en el CND y definido en el Código de Redes. Esta disponibilidad se actualiza cuando se presentan cambios en las unidades de generación durante la operación real del sistema, con el valor de la disponibilidad media de la hora en que se efectúa el cambio. Para el cálculo de la disponibilidad comercial se consideran los siguientes parámetros técnicos de las unidades de generación: velocidad de toma de carga, rata de descarga, tiempo mínimo de operación, carga sincronizante y tiempo de calentamiento. 
+
+1.1.3.1 DISPONIBILIDAD PARA UNIDADES SIN FALLA. 
+
+A partir del estado operativo de la unidad de generación se evalúa su potencial de generación real de acuerdo a la capacidad reportada para la hora, considerando los parámetros técnicos de cada unidad. Esta disponibilidad es la que se considera en el despacho ideal. 
+
+1.1.3.2. DISPONIBILIDAD PARA UNIDADES CON FALLA. 
+
+Se consideran unidades con falla aquellas que tienen un potencial de generación nulo o no confiable. Pero se consideran para el cálculo de disponibilidad aquellas unidades que hayan reportado que están disponibles. El modelaje de su disponibilidad es función de sus parámetros técnicos luego de reportada la superación de la falla, la cual puede ser parcial o total. La disponibilidad determinada por el anterior criterio es la que se considera en el despacho ideal. 
+
+1.1.4. PROCESO DE CÁLCULO DEL PRECIO EN LA BOLSA DE ENERGÍA (VER DESCRIPCIÓN DETALLADA DEL PROCESO EN EL ANEXO A-4). 
+
+<Numeral modificado por el artículo 6 de la Resolución 51 de 2009. Ver término para entrada en vigencia. El nuevo texto es el siguiente:> Las transacciones en la Bolsa de Energía tendrán un precio único para el mercado nacional (Demanda Total) y un precio único para el mercado internacional (Demanda No Doméstica), en cada período horario. 
+
+El cálculo del precio único se hará para el mercado nacional y el mercado internacional, de conformidad con lo establecido en el numeral 1.1.4.3 del Anexo A de la Resolución CREG-024 de 1995.
+
+Notas de Vigencia
+
+Legislación Anterior
+
+1.1.4.1. IDENTIFICACIÓN DE UNIDADES INFLEXIBLES. 
+
+En la declaración de disponibilidad de los generadores del día anterior al despacho, cada generador notifica la inflexibilidad en la operación de sus unidades generadoras. Sin embargo, durante la ejecución de la operación se puede modificar la inflexibilidad, las cuales pueden ocurrir por: 
+
+* Una unidad puede estar programada en tal forma que es incapaz de cambiar su generación para suministrar demanda adicional incremental (variación positiva o negativa) del sistema y por lo tanto no entra en el cálculo del Precio en la Bolsa de Energía. (Ej.: Unidades con generación restringida por límites de exportación de áreas o por limitaciones de nivel de embalses o número de unidades en línea). 
+
+* Una unidad es inflexible cuando por sus características técnicas su generación programada en el despacho ideal para la hora presenta limitantes que origina cambios en el programa de generación en por lo menos una unidad de generación con menor precio de oferta. 
+
+* Una unidad es inflexible cuando por cualquier condición después del cierre del período de ofertas y antes del período definido para reporte de información al redespacho, el generador modifica su disponibilidad declarada para el despacho económico. 
+
+1.1.4.2. IDENTIFICACIÓN DE RACIONAMIENTO. 
+
+El racionamiento de energía se establece por la decisión de efectuar un racionamiento programado de energía de acuerdo a los procedimientos establecidos en el Estatuto de Racionamiento, o por instrucciones del Centro Nacional de Despacho (CND) de llevar a cabo un racionamiento de emergencia. 
+
+Para determinar un racionamiento de potencia se procede en la siguiente forma: 
+
+* Se calcula la demanda máxima para los períodos de liquidación afectados, como la suma de la demanda máxima medida, incrementada con las pérdidas de referencia del Sistema de Transmisión Nacional y con toda la carga no atendida. 
+
+* Se determina la disponibilidad de generación para los mismos períodos de liquidación. 
+
+* Si la demanda máxima calculada excede la disponibilidad a utilizar para la determinación del despacho ideal se está en una situación de racionamiento de potencia. 
+
+1.1.4.3. PRECIO HORARIO EN LA BOLSA DE ENERGÍA EN CONDICIONES NORMALES DE OPERACIÓN. 
+
+<Numeral modificado por el artículo 7 de la Resolución 51 de 2009. Ver término para entrada en vigencia. El nuevo texto es el siguiente:> Para determinar los Precios horarios en la Bolsa de Energía, cuando hay Demanda No Doméstica y cuando no hay Demanda No Doméstica, se procederá de acuerdo con lo definido en el Anexo A-4 de la Resolución CREG-024 de 1995.
+
+Notas de Vigencia
+
+Legislación Anterior
+
+1.1.4.4. PRECIO EN LA BOLSA DE ENERGÍA EN CONDICIONES DE RACIONAMIENTO. 
+
+<Numeral derogado por el artículo 15 de la Resolución 119 de 1998.> 
+
+Notas de vigencia
+
+Notas del Editor
+
+Legislación anterior
+
+1.1.4.5. PRECIO EN LA BOLSA DE ENERGÍA EN CONDICIONES DE INTERVENCIÓN DE PRECIOS DE OFERTA. 
+
+En las condiciones de intervención de precios de oferta establecidas en el Código de Operación del Código de Redes, el precio horario en la bolsa de energía se determina de acuerdo al procedimiento para condiciones normales de operación, pero teniendo en cuenta los precios intervenidos de oferta para las plantas de generación hidroeléctrica con embalse definidos en el Código de Operación. 
+
+1.1.5 PROCESO DE CÁLCULO DE PAGO DE DESVIACIONES. <Numeral modificado por el artículo 2 de la Resolución 101 119 de 2026. El nuevo texto es el siguiente:> 
+
+El proceso de cálculo de pago de desviaciones se realiza diariamente para cada uno de los períodos horarios, aplicándose a los generadores que no se encuentren autorizados para desviarse por el CND para la hora evaluada.
+
+Para el proceso de cálculo de pago por desviaciones horarias, se definirá cual es la franja de tolerancia horaria de desviación de cada planta o unidad, así: a. Franja de tolerancia horaria para las plantas o unidades de generación diferentes a la de generación variable Se calculará el porcentaje de desviación horaria de las plantas o unidades de generación como el valor absoluto de la diferencia de su despacho programado horario o el redespacho, según corresponda, y su generación real horaria, sobre su despacho programado horario o el redespacho, según corresponda.
+
+Para aquellas plantas o unidades de generación diferentes a las plantas de generación variable, su franja de tolerancia de desviación horaria será del cinco por ciento (5%).
+
+En caso de que una planta tenga despacho programado horario o redespacho igual a cero (0), y presente generación real horaria diferente de cero (0), se entiende que la desviación horaria es mayor al 5%.
+
+El pago por desviaciones se aplicará siguiendo el procedimiento definido en el Anexo A de la Resolución CREG-024 de 1995.
+
+b. Franja de tolerancia horaria y pago por concepto de desviaciones para las plantas de generación variable.
+
+b.1. Franja de tolerancia para la desviación horaria para las plantas de generación variable.
+
+Se calculará el porcentaje de desviación horaria de las plantas como el valor absoluto de la diferencia de su despacho programado horario o el redespacho, según corresponda, y su generación real horaria, sobre su despacho programado horario o el redespacho, según corresponda.
+
+Para aquellas plantas de generación variable su franja de tolerancia de desviación horaria será del quince por ciento (15%).
+
+En caso de que una planta tenga despacho programado horario o redespacho igual a cero (0), y presente generación real horaria diferente de cero (0), se entiende que la desviación horaria es mayor del 15%.
+
+El pago por desviaciones se aplicará siguiendo el procedimiento definido en el Anexo A de la Resolución CREG-024 de 1995.
+
+b.2. Precio de referencia de la desviación para el pago por desviaciones del programa de generación.
+
+El precio de referencia de la desviación para las plantas o unidades de generación variable que cuyo cálculo de la desviación horaria sea mayor a la permitida por la franja de tolerancia definida en el literal b.1 de este literal b., será el siguiente: i. Se obtienen los últimos datos disponibles de los costos unitarios por servicio de AGC conforme a los calculados en el numeral 3 del artículo 1o de la Resolución CREG 034 de 2001 sin el descuento de la parte correspondiente de la reconciliación negativa. Los datos horarios a usar son los correspondientes al mes anterior al del cálculo de la desviación en versión factura.
+
+ii. El precio de referencia para el pago por concepto de desviaciones será el asociado al percentil 75 del conjunto de los datos del literal anterior.
+
+iii. Para las versiones diarias correspondientes cuando el ASIC no disponga aún de la información en versión factura del mes anterior al del cálculo de la desvia ción, se utilizará como precio de referencia el valor unitario de la mejor información disponible en versión factura. Los valores liquidados para dichos días serán actualizados utilizando el valor unitario correspondiente al mes anterior al del cálculo de la desviación en la factura del mes de operación.
+
+b.3. Pago por desviaciones de las plantas o unidades de generación variable Identificada la hora respectiva en que la planta o unidad de generación variable supero la franja de tolerancia permitida conforme al literal b.1 y usando el precio de referencia por concepto de desviaciones asociado a superar dicha franja conforme al literal b.2, se calcula el valor de las siguientes liquidaciones de las desviaciones horarias, el cual es un valor a retribuir en la Bolsa de Energía: i. Si la planta de generación variable aparece en el despacho ideal para cubrir exclusivamente demanda comercial nacional y generó realmente más o menos que el permitido por la tolerancia con respecto al despacho programado o redespacho para la hora en proceso, se le calcula una liquidación horaria del valor absoluto de la diferencia entre la generación real y el despacho programado o redespacho, multiplicado por el precio de referencia que se obtuvo como resultado de aplicar el literal b.2.
+
+ii. Si la planta de generación variable aparece en el despacho ideal para cubrir total o parcialmente demanda comercial de transacciones internacionales de electricidad (TIE) y generó realmente más o menos que el permitido por la tolerancia con respecto al despacho programado o redespacho para la hora en proceso, se le calcula una liquidación horaria del valor absoluto de la diferencia entre la generación real y el despacho programado o redespacho, multiplicado por el precio de referencia que se obtuvo como resultado de aplicar el literal b.2.
+
+iii. Si la planta de generación variable aparece en el despacho ideal para cubrir total o parcialmente demanda comercial internacional y generó realmente más o menos que el permitido por la tolerancia con respecto al despacho programado o redespacho para la hora en proceso, se le calcula una liquidación horaria del valor absoluto de la diferencia entre la generación real y el despacho programado o redespacho, multiplicado por el precio de referencia que se obtuvo como resultado de aplicar el literal b.2.
+
+iv. Si la planta de generación variable no aparece en el despacho ideal y generó realmente más o menos que el permitido por la tolerancia con respecto al despacho programado o redespacho para la hora en proceso, se le calcula una liquidación horaria del valor absoluto de la diferencia entre la generación real y el despacho programado o redespacho, multiplicado por el precio de referencia que se obtuvo como resultado de aplicar el literal b.2.
+
+b.4. Uso del dinero recaudado El dinero que horariamente se determine en la Bolsa de Energía por pago de desviaciones, se asignará a los comercializadores a prorrata de su participación en la demanda nacional total para alivio de la cuenta de restricciones.
+
+c. Pago por desviaciones de las plantas o unidades de generación diferentes a la de generación variable Para aquellas plantas o unidades de generación que les aplique la franja de tolerancia horaria de desviación, si se verifica que su generación real respecto a la del despacho programado (de aquí en adelante entendido para este numeral como el resultado del despacho económico o redespacho, según corresponda) para la hora en proceso, es mayor o menor a la permitida por la franja de tolerancia definida en literal a del presente numeral, se afectarán sus transacciones comerciales por pago de desviaciones de la siguiente manera:
+
+c.1. Si la planta de generación o la unidad, aparece en el despacho ideal para cubrir exclusivamente demanda comercial nacional y generó realmente más o menos que el permitido por la tolerancia con respecto al despacho programado para la hora en proceso, debe retribuir por liquidación de desviaciones a la Bolsa de Energía, el valor absoluto de la diferencia entre la generación real y el despacho programado, multiplicado por el valor absoluto de la diferencia entre el precio de oferta y el precio de Bolsa para transacciones domésticas en la hora respectiva.
+
+c.2. Si la planta de generación o la unidad, aparece en el despacho ideal para cubrir total o parcialmente demanda comercial de Transacciones Internacionales de Electricidad (TIE) y generó realmente más o menos que el permitido por la tolerancia con respecto al despacho programado para la hora en proceso, debe retribuir por liquidación de desviaciones a la Bolsa de Energía, el valor absoluto de la diferencia entre la generación real y el despacho programado, multiplicado por el valor absoluto de la diferencia entre el precio de oferta y el precio de Bolsa para Transacciones Internacionales de Electricidad (TIE) en la hora respectiva.
+
+c.3. Si la planta de generación o la unidad, aparece en el despacho ideal para cubrir total o parcialmente demanda comercial internacional y generó realmente más o menos que el permitido por la tolerancia con respecto al despacho programado para la hora en proceso, debe retribuir por liquidación de desviaciones a la Bolsa de Energía, el valor absoluto de la diferencia entre la generación real y el despacho programado, multiplicado por el valor absoluto de la diferencia entre el precio de oferta y el precio de Bolsa para transacciones internacionales en la hora respectiva.
+
+c.4. Si la planta de generación o la unidad, no aparece en el despacho ideal y generó realmente más o menos que el permitido por la tolerancia con respecto al despacho programado para la hora en proceso, debe retribuir por liquidación de desviaciones a la Bolsa de Energía, el valor absoluto de la diferencia entre la generación real y el despacho programado, multiplicado por el valor absoluto de la diferencia entre el precio de oferta y el precio de Bolsa para transacciones internacionales en la hora respectiva.
+
+c.5. El dinero que horariamente se determine en la Bolsa de Energía por pago de desviaciones, se asignará a los comercializadores a prorrata de su participación en la demanda nacional total para alivio de la cuenta de restricciones.
+
+Notas de Vigencia
+
+Concordancias
+
+Legislación Anterior
+
+1.1.5 Proceso de cálculo de pago de desviaciones <Numeral modificado, por el artículo 30 de la Resolución 60 de 2019. El nuevo texto es el siguiente:> 
+
+El proceso de cálculo de pago de desviaciones se realiza diariamente para cada uno de los períodos horarios, aplicándose a los generadores que no se definan para la hora en proceso como reguladores del sistema. 
+
+Para el proceso de cálculo de pago por desviaciones horarias, se definirá cuál es la franja de tolerancia horaria de desviación de cada planta o unidad, así: 
+
+a) Franja de tolerancia horaria para las plantas o unidades de generación diferentes a la de generación variable. 
+
+Se calculará el porcentaje de desviación horaria de las plantas o unidades de generación como el valor absoluto de la diferencia de su despacho programado horario o el redespacho, según corresponda, y su generación real horaria, sobre su despacho programado horario o el redespacho, según corresponda. 
+
+Para aquellas plantas o unidades de generación diferentes a las plantas de generación variable, su franja de tolerancia de desviación horaria será del cinco por ciento (5 %). 
+
+En caso de que una planta tenga despacho programado diario o redespacho igual a cero (0), y presente generación real diaria diferente de cero (0), se entiende que la desviación horaria es mayor al 5%. 
+
+El pago por desviaciones se aplicará siguiendo el procedimiento definido en el Anexo A de la Resolución CREG-024 de 1995. 
+
+b) Franja de tolerancia horaria para las plantas de generación variable. <Ver Notas de Vigencia>
+
+b.1. Desviación diaria del programa de generación del despacho económico o primer despacho. 
+
+Se define como el valor absoluto de la diferencia de su primer despacho y su generación real diaria, sobre su primer despacho.
+
+Tomando como referencia el valor de la desviación diaria, se aplicará la siguiente tolerancia de desviación horaria: 
+
+b.1.1. Para plantas de generación variable que tengan una desviación diaria en un valor menor o igual al 15%, no se les considerará desviación diaria del primer despacho. Se les considerará solo la regla de desviación del redespacho. 
+
+b.1.2. La franja de tolerancia horaria de desviación para plantas de generación variable que tengan una desviación diaria en un valor mayor a quince por ciento (15%) y menor al veinte por ciento (20%), será la siguiente: 
+
+Donde:
+
+Toleranciah,d: Tolerancia horaria para el día d, en unidades porcentuales (%). A partir de este valor la planta de generación variable asumirá un pago por desviación horaria. 
+
+desviaciónd: Desviación diaria en el día d de la planta de generación variable, multiplicada por 100. Valor que debe ser mayor a 15% y menor al 20%. 
+
+b.1.3. En caso de que una planta tenga un programa de generación diaria igual a cero (0) en su primer despacho, y presente generación real diaria diferente de cero (0), se entiende que la desviación diaria es mayor al 20%. 
+
+b.1.4. La franja de tolerancia de desviación horaria para plantas de generación variable, que tengan una desviación diaria en un valor mayor o igual al 20%, será del cinco por ciento (5%). 
+
+Se calculará el porcentaje de desviación horaria de las plantas de generación variable, como el valor absoluto de la diferencia de su primer despacho horario y su generación real horaria, sobre su primer despacho horario. 
+
+b.2. Desviación del programa de generación del redespacho 
+
+Se define como el valor absoluto de la diferencia de su despacho programado o redespacho diario, y su generación real diaria, sobre su despacho programado o redespacho. 
+
+Tomando como referencia el valor de la desviación diaria, se aplicará la siguiente tolerancia de desviación horaria: 
+
+b.2.1. Para plantas de generación variable que tengan una desviación diaria en un valor menor o igual al 8%, no les aplicará lo definido para la franja de tolerancia de desviación horaria. 
+
+b.2.2. La franja de tolerancia horaria de desviación para plantas de generación variable que tengan una desviación diaria en un valor mayor a ocho por ciento (8%) y menor al quince por ciento (15%), será la siguiente: 
+
+Donde:
+
+Toleranciah,d Tolerancia horaria para el día d, en unidades porcentuales (%). A partir de este valor la planta de generación variable asumirá un pago por desviación horaria. 
+
+desviaciónd Desviación diaria en el día d de la planta de generación variable, multiplicada por 100. Valor que debe ser mayor a 8% y menor al 15% 
+
+b.2.3. En caso de que una planta tenga redespacho diario igual a cero (0), y presente generación real diaria diferente de cero (0), se entiende que la desviación diaria es mayor al 15%. 
+
+b.2.4. La franja de tolerancia de desviación horaria para plantas de generación variable, que tengan una desviación diaria en un valor igual o mayor al 15%, será del cinco por ciento (5%). 
+
+Se calculará el porcentaje de desviación horaria de las plantas de generación variable, como el valor absoluto de la diferencia de su primer despacho horario o el redespacho, según corresponda, y su generación real horaria, sobre su primer despacho horario o el redespacho, según corresponda. 
+
+b.3. Casos especiales de excepción de la franja de tolerancia horaria para la planta de generación variable filo de agua. 
+
+No le aplicará la franja de tolerancia horaria a la planta filo de agua que se encuentre aguas abajo de una planta hidráulica con embalse de regulación de caudales mayor a un día, y se den los siguientes casos: 
+
+b.3.1. Para el día d del proceso de cálculo de desviación, si la planta hidráulica con embalse de regulación de caudales mayor a un día, se programó como regulador del sistema, o 
+
+b.3.2. El CND modificó en tiempo real la generación programada de la planta hidráulica con embalse de regulación de caudales mayor a un día. 
+
+b.4. Para los casos en los cuales durante la operación el CND solicite a una planta de generación variable modificar el valor de generación con relación al valor programado en el despacho o redespacho, a efectos de calcular las desviaciones diarias de las que tratan los literales b.1 y b.2, se considerará que en el período correspondiente, el despacho o redespacho programado de la hora será igual a la generación real horaria correspondiente 
+
+Para los casos en que el agente, antes de iniciar la operación diaria o durante la operación diaria, declare indisponibilidad total o parcial de la planta de generación variable para todos los periodos horarios posteriores a la declaración, y para dichos periodos no realice redespacho por aumento de disponibilidad, se considerará la afectación de esta declaración en el cálculo de las desviaciones diarias de las que tratan los literales b.1 y b.2 del primer despacho y redespacho. 
+
+b.5. Tolerancia horaria a aplicar para el pago por desviaciones 
+
+A la planta de generación variable se le calculará una liquidación por desviaciones de la siguiente manera: 
+
+b.5.1. Con la tolerancia horaria establecida de la desviación del primer despacho del literal b.1., se calcula el valor de las siguientes liquidaciones de las desviaciones horarias: 
+
+b.5.1.1. Si la planta de generación variable, aparece en el despacho ideal para cubrir exclusivamente demanda comercial nacional y generó realmente más o menos que el permitido por la tolerancia con respecto al primer despacho para la hora en proceso, se le calcula una liquidación horaria del valor absoluto de la diferencia entre la generación real y el primer despacho, multiplicado por el valor absoluto de la diferencia entre el precio de oferta y el precio de Bolsa para transacciones domésticas en la hora respectiva. 
+
+b.5.1.2. Si la planta de generación variable, aparece en el despacho ideal para cubrir total o parcialmente demanda comercial de transacciones internacionales de electricidad (TIE), y generó realmente más o menos que el permitido por la tolerancia con respecto al primer despacho para la hora en proceso, se le calcula una liquidación horaria del valor absoluto de la diferencia entre la generación real y el primer despacho, multiplicado por el valor absoluto de la diferencia entre el precio de oferta y el precio de Bolsa para transacciones internacionales de electricidad (TIE), en la hora respectiva. 
+
+b.5.1.3. Si la planta de generación variable, aparece en el despacho ideal para cubrir total o parcialmente demanda comercial internacional y generó realmente más o menos que el permitido por la tolerancia con respecto al primer despacho para la hora en proceso, se le calcula una liquidación horaria del valor absoluto de la diferencia entre la generación real y el despacho programado, multiplicado por el valor absoluto de la diferencia entre el precio de oferta y el precio de Bolsa para transacciones internacionales en la hora respectiva. 
+
+b.5.1.4. Se calcula el valor total diario de las liquidaciones horarias del día correspondiente, definido en los literales anteriores. 
+
+b.5.2. Con la tolerancia horaria establecida de la desviación del programa de generación del redespacho, del literal b.2, se calcula el valor de las siguientes liquidaciones de las desviaciones horarias: 
+
+b.5.2.1. Si la planta de generación variable, aparece en el despacho ideal para cubrir exclusivamente demanda comercial nacional y generó realmente más o menos que el permitido por la tolerancia con respecto al despacho programado o redespacho para la hora en proceso, se le calcula una liquidación horaria del valor absoluto de la diferencia entre la generación real y el despacho programado o redespacho, multiplicado por el valor absoluto de la diferencia entre el precio de oferta y el precio de Bolsa para transacciones domésticas en la hora respectiva. 
+
+b.5.2.2. Si la planta de generación variable, aparece en el despacho ideal para cubrir total o parcialmente demanda comercial de transacciones internacionales de electricidad (TIE), y generó realmente más o menos que el permitido por la tolerancia con respecto al despacho programado o redespacho para la hora en proceso, se le calcula una liquidación horaria del valor absoluto de la diferencia entre la generación real y el despacho programado o redespacho, multiplicado por el valor absoluto de la diferencia entre el precio de oferta y el precio de Bolsa para transacciones internacionales de electricidad (TIE), en la hora respectiva. 
+
+b.5.2.3. Si la planta de generación variable, aparece en el despacho ideal para cubrir total o parcialmente demanda comercial internacional y generó realmente más o menos que el permitido por la tolerancia con respecto al despacho programado o redespacho para la hora en proceso, se le calcula una liquidación horaria del valor absoluto de la diferencia entre la generación real y el despacho programado o redespacho, multiplicado por el valor absoluto de la diferencia entre el precio de oferta y el precio de Bolsa para transacciones internacionales en la hora respectiva. 
+
+b.5.2.4. Se calcula el valor total diario de las liquidaciones horarias del día correspondiente, definido en los literales anteriores. 
+
+b.5.3. Se identifica el valor máximo entre el valor total diario de las liquidaciones horarias del literal b.5.1, desviación del primer despacho, y b.5.2, desviación del programa de generación del redespacho.
+
+b.5.4. El pago por desviaciones para generación variable corresponderá al máximo identificado en el literal b.5.4. 
+
+b.5.5. El dinero que horariamente se determine en la Bolsa de Energía por pago de desviaciones, se asignará a los comercializadores a prorrata de su participación en la demanda nacional total para alivio de la cuenta de restricciones. 
+
+c) Pago por desviaciones de las plantas o unidades de generación diferentes a la de generación variable. 
+
+Para aquellas plantas o unidades de generación que les aplique la franja de tolerancia horaria de desviación, si se verifica que su generación real respecto a la del despacho programado (de aquí en adelante entendido para este numeral como el resultado del despacho económico o redespacho, según corresponda), para la hora en proceso, es mayor o menor a la permitida por la franja de tolerancia definida en literal a) del presente numeral, se afectarán sus transacciones comerciales por pago de desviaciones de la siguiente manera: 
+
+c.1. Si la planta de generación o la unidad, aparece en el despacho ideal para cubrir exclusivamente demanda comercial nacional y generó realmente más o menos que el permitido por la tolerancia con respecto al despacho programado para la hora en proceso, debe retribuir por liquidación de desviaciones a la Bolsa de Energía, el valor absoluto de la diferencia entre la generación real y el despacho programado, multiplicado por el valor absoluto de la diferencia entre el precio de oferta y el precio de Bolsa para transacciones domésticas en la hora respectiva. 
+
+c.2. Si la planta de generación o la unidad, aparece en el despacho ideal para cubrir total o parcialmente demanda comercial de transacciones internacionales de electricidad (TIE), y generó realmente más o menos que el permitido por la tolerancia con respecto al despacho programado para la hora en proceso, debe retribuir por liquidación de desviaciones a la Bolsa de Energía, el valor absoluto de la diferencia entre la generación real y el despacho programado, multiplicado por el valor absoluto de la diferencia entre el precio de oferta y el precio de Bolsa para transacciones internacionales de electricidad (TIE), en la hora respectiva. 
+
+c.3. Si la planta de generación o la unidad, aparece en el despacho ideal para cubrir total o parcialmente demanda comercial internacional y generó realmente más o menos que el permitido por la tolerancia con respecto al despacho programado para la hora en proceso, debe retribuir por liquidación de desviaciones a la Bolsa de Energía, el valor absoluto de la diferencia entre la generación real y el despacho programado, multiplicado por el valor absoluto de la diferencia entre el precio de oferta y el precio de Bolsa para transacciones internacionales en la hora respectiva. 
+
+c.4. Si la planta de generación o la unidad, no aparece en el despacho ideal y generó realmente más o menos que el permitido por la tolerancia con respecto al despacho programado para la hora en proceso, debe retribuir por liquidación de desviaciones a la Bolsa de Energía, el valor absoluto de la diferencia entre la generación real y el despacho programado, multiplicado por el valor absoluto de la diferencia entre el precio de oferta y el precio de Bolsa para transacciones internacionales en la hora respectiva. 
+
+c.5. El dinero que horariamente se determine en la Bolsa de Energía por pago de desviaciones, se asignará a los comercializadores a prorrata de su participación en la demanda nacional total. 
+
+Texto modificado por la Resolución 112 de 1998:
+
+1.1.5 PROCESO DE CÁLCULO DE DESVIACIONES Y PENALIZACIÓN (VER DESCRIPCIÓNDETALLADA DEL PROCESO EN EL ANEXO A-5). 
+
+El proceso de cálculo de penalizaciones se realiza diariamente para cada uno de los períodos horarios, aplicándose a los generadores que no se definan para la hora en proceso como reguladores del sistema, de la siguiente manera: 
+
+Para aquellos generadores diferentes a los que participan en regulación, que se desvíen del despacho programado horario (resultado del Redespacho) en una franja de tolerancia definida como el cinco porciento (5 %) de la generación en cada planta o unidad, se afectan sus transacciones comerciales así: 
+
+* Si la planta de generación o la unidad, aparece en el despacho ideal para cubrir exclusivamente demanda comercial nacional y generó realmente más o menos que el permitido por la tolerancia con respecto al despacho programado para la hora en proceso, debe retribuir por liquidación de penalizaciones a la Bolsa de Energía el valor absoluto de la diferencia entre la generación real y el despacho programado, multiplicado por el valor absoluto de la diferencia entre el precio de oferta y el precio de Bolsa para transacciones domésticas en la hora respectiva. 
+
+* Si la planta de generación o la unidad, aparece en el despacho ideal para cubrir total o parcialmente demanda comercial internacional y generó realmente más o menos que el permitido por la tolerancia con respecto al despacho programado para la hora en proceso, debe retribuir por liquidación de penalizaciones a la Bolsa de Energía el valor absoluto de la diferencia entre la generación real y el despacho programado, multiplicado por el valor absoluto de la diferencia entre el precio de oferta y el precio de Bolsa para transacciones internacionales en la hora respectiva. 
+
+* Si la planta de generación o la unidad, no aparece en el despacho ideal y generó realmente más o menos que el permitido por la tolerancia con respecto al despacho programado para la hora en proceso, debe retribuir por liquidación de penalizaciones a la Bolsa de Energía el valor absoluto de la diferencia entre la generación real y el despacho programado, multiplicado por el valor absoluto de la diferencia entre el precio de oferta y el precio de Bolsa para transacciones internacionales en la hora respectiva. 
+
+El dinero que horariamente se determine en la Bolsa de Energía por penalizaciones, se asignará a los comercializadores a prorrata de su participación en la demanda total. 
+
+Texto original Resolución 24 de 1995:
+
+1.1.5 Proceso de Cálculo de Desviaciones y Penalización (ver descripción detallada del proceso en el Anexo A-5) 
+
+El proceso de cálculo de penalizaciones se realiza diariamente para cada uno de los períodos horarios, aplicándose a los generadores que no se definan para la hora en proceso como reguladores del sistema, de la siguiente manera: 
+
+Para aquellos generadores diferentes a los que participan en regulación, que se desvíen del despacho programado horario (resultado del Redespacho) en una franja de tolerancia definida como el (5 %) de la generación en cada planta o unidad, se afectan sus transacciones comerciales de la siguiente manera: 
+
+* Si la planta de generación o la unidad, según la oferta, generó realmente más o menos que el permitido por la tolerancia con respecto al despacho programado para la hora en proceso, debe retribuir por liquidación de penalizaciones a la bolsa de energía el valor absoluto de la diferencia entre la generación real y el despacho programado, multiplicado por el valor absoluto de la diferencia entre el precio de oferta y el precio de bolsa para esa hora. 
+
+Durante el primer semestre de 1996 la CREG expedirá una resolución con el procedimiento para que los transportadores efectúen el cobro asociado a las restricciones por transmisión, de modo que el dinero que se determine horariamente en la bolsa de energía por penalizaciones corresponderá a los transportadores. Mientras se establece este procedimiento, el dinero que horariamente se determine en la bolsa de energía por penalizaciones corresponde a los comercializadores. 
+
+1.1.6. PROCESO DE CÁLCULO DE LAS RESTRICCIONES DE TRANSMISIÓN (VER DESCRIPCIÓN DETALLADA DEL PROCESO EN EL ANEXO A-5). 
+
+Para evaluar el costo de las restricciones en el Sistema de Transmisión Nacional, en los sistemas de Transmisión regional y en los de distribución local, se consideran los precios de oferta de los generadores térmicos e hidráulicos y las diferencias entre la generación real y la generación en el despacho ideal, y se procede de la siguiente manera: 
+
+* Se calcula la diferencia entre la generación real y la generación en el despacho ideal para cada unidad de generación o planta, de acuerdo con la oferta presentada. 
+
+* Si la diferencia es positiva, los transportadores pagan la diferencia al precio de oferta del generador, y el generador recibe una suma igual. 
+
+* Si la diferencia es negativa, el generador paga la diferencia valorada a su precio de oferta, y los transportadores reciben una suma igual. 
+
+<Párrafo modificado por el artículo 3 de la la Resolución 99 de 1996. El nuevo texto es el siguiente:> A partir del 1o. de diciembre de 1996, y hasta tanto la Comisión de Regulación de Energía y Gas determine el procedimiento detallado para que los transportadores puedan recuperar el costo asociado a las restricciones por transmisión, el costo asociado con las restricciones se asignará en la siguiente forma: 
+
+a. El costo de las restricciones globales, valoradas a nivel horario, se asignará en un 50% a los generadores despachados centralmente en proporción a su capacidad efectiva registrada en el Centro Nacional de Despacho y el restante 50% se distribuirá entre los comercializadores participantes en el mercado mayorista en proporción a su demanda horaria. 
+
+b. El costo de las restricciones regionales se asignará de acuerdo con los siguientes criterios: 
+
+El costo de la generación fuera de mérito de las plantas representadas ante el administrador del Sistema de Intercambios Comerciales por empresas que desarrollan conjuntamente las actividades de Generación y Transmisión de electricidad; cuya eliminación o reducción esté asociada a inversiones en los Sistemas de Transmisión Regional o Distribución Local operados por las mismas empresas, o con refuerzos en la conexión de tales redes al Sistema de Transmisión Nacional; se asignará al negocio de Transmisión de esas empresas. 
+
+El costo de la generación fuera de mérito de las plantas representadas ante el administrador del Sistema de Intercambios Comerciales por empresas que desarrollan la actividad de Generación de electricidad; cuya eliminación o reducción esté asociada a inversiones en los Sistemas de Transmisión Regional y/o Distribución Local en donde se encuentran conectadas tales plantas, o con refuerzos en la conexión de esas redes al Sistema de Transmisión Nacional, se asignará al negocio de Transmisión de las empresas operadoras de los respectivos Sistemas de Transmisión Regional y/o Distribución Local. 
+
+Notas de vigencia
+
+Legislación anterior
+
+2. INFORMACIÓN A SUMINISTRAR EN EL MERCADO MAYORISTA. <Numeral modificado por el artículo 31 de la Resolución 60 de 2019. El nuevo texto es el siguiente:> 
+
+Todos los agentes y el Administrador del SIC tienen las siguientes obligaciones: 
+
+2.1. Todo agente debe reportar la información requerida y con la periodicidad definida en el Código de Redes, y de manera adicional la siguiente: 
+
+2.1.1. En los contratos de energía a largo plazo se debe suministrar información suficiente para determinar hora a hora las cantidades de energía exigibles bajo estos contratos y los precios respectivos, tipo de contrato y período de vigencia del contrato. 
+
+2.1.2. Los comercializadores deben presentar la información de curvas típicas de demanda a nivel horario en la forma solicitada por el Administrador del SIC, cada vez que se presenten cambios significativos o cuando se efectúen nuevas mediciones. 
+
+2.1.3. Los generadores deben reportar diariamente al Administrador del SIC la generación horaria de cada una de sus plantas y unidades de generación correspondiente, del día anterior, en los plazos definidos por el Código de Medida de la Resolución CREG 038 de 2014, o aquellas que la modifiquen, adicionen o sustituyan. 
+
+2.1.4. Los comercializadores deben reportar diariamente al Administrador del SIC la demanda horaria de cada una de sus fronteras, en los plazos definidos por el Código de Medida de la Resolución CREG 038 de 2014, o aquellas que la modifiquen, adicionen o sustituyan.
+
+2.2. Todos los agentes del mercado mayorista tienen acceso a la consulta de las especificaciones funcionales del software del SIC. 
+
+2.3. El Administrador del SIC propondrá los sistemas de seguridad, y las formalidades que considere necesarias, para identificación de las personas autorizadas, claridad en el alcance de las instrucciones que se den al Administrador del SIC, y oportunidad de las comunicaciones. 
+
+2.4. El Administrador del SIC realiza el proceso de liquidación después del recibo de todas las mediciones de energía en las diferentes fronteras comerciales, según lo establecido en el Capítulo III "Liquidación y Facturación de Transacciones en el MEM", de la Resolución CREG 157 de 2011, o aquellas que la modifiquen, adicionen o sustituyan. 
+
+2.5. El Administrador del SIC suministrará la información que soporta todos los ítems de las facturas y de las liquidaciones. 
+
+2.6. El Administrador del SIC debe enviar a cada agente su información asociada, con la resolución señalada a continuación: 
+
+2.6.1. Soporte de factura y orden de pago - diario con resolución horaria. 
+
+2.6.2. Soporte de factura y orden de pago - mensual con resolución diaria. 
+
+2.6.3. Despacho real de cada contrato de energía a largo plazo por el vendedor y el comprador - diario con resolución horaria. 
+
+2.6.4. Despacho real de cada contrato de energía a largo plazo por el vendedor y el comprador - mensual con resolución diaria. 
+
+2.6.5. Reporte general de las transacciones por cada agente - diario con totales diarios. 
+
+2.6.6. Reporte general de las transacciones por cada agente - mensual con totales mensuales. 
+
+2.6.7. Reporte de lecturas crudas de contadores - diario con resolución horaria. 
+
+2.6.8. Reporte de energía de contadores - diario con resolución horaria. 
+
+2.6.9. Reporte de desviaciones y restricciones por agente - diario con resolución horaria. 
+
+2.6.10. Reporte de disponibilidad comercial por agente - diario con resolución horaria. 
+
+2.6.11. Reporte de desviaciones y restricciones por agente - mensual con resolución diaria. 
+
+2.6.12. Demanda real de energía y potencia por agente - diario con resolución horaria. 
+
+2.6.13. Demanda real de energía por agente - mensual con resolución diaria. 
+
+2.6.14. Demanda, generación y pérdidas acumuladas por agente - en un rango de tiempo menor a tres meses. 
+
+Notas de Vigencia
+
+Legislación Anterior
+
+JORGE EDUARDO COCK LONDOÑO 
+
+Presidente 
+
+EVAMARIA URIBE TOBON 
+
+Director Ejecutivo 
+
+ANEXO A-1. 
+
+FUNCION DE DEMANDA AGREGADA Y PERDIDAS. 
+
+FUNCION: Demandas Agregadas y Pérdidas - SICDEMA 
+
+Esta función calcula la demanda real de cada comercializador involucrado en el proceso comercial (DmAc), calcula la demanda de cada área operativa (DmAe) necesaria para la 'Programación SIC (despacho ideal), evalúa las pérdidas del Sistema de Transmisión Nacional (STN) y distribuye estas pérdidas entre los comercializadores (PdrAc). 
+
+La demanda de los comercializadores y de cada área operativa se evalúa con base en las lecturas de sus contadores asociados. Cada contador perteneciente a una frontera comercial identifica a un agente exportador (IdSbmEx) y a un agente importador (IdSbmIm). El STN es el agente exportador cuando se trata de contadores que miden flujo entre ésta y otra red de menor voltaje y es agente importador cuando el contador mide flujo en sentido contrario. 
+
+Cada contador representa una medida de energia (MWh con dos cifras decimales) en el punto de medición. También, cada contador tiene asociado un factor (FacPdCtr), con base en el cual se podrá reflejar esta medida al nodo del STN mas cercano. Si el contador está localizado sobre el STN, este factor será igual a 1.0. 
+
+Con la evaluación de estos contadores se pueden obtener los valores independientes de demanda de energía de cada comercializador, los consumos de los agentes productores (generadores que toman energía de fuentes diferentes a la propia), generaciones de los generadores y demandas de las áreas operativas. En estos valores de demandas y generaciones están incluidas las pérdidas en las redes con niveles de tensión inferiores a 220 kV. 
+
+Las pérdidas en el STN se calculan con base en todos los contadores ubicados en fronteras comerciales, en los cuales el STN está involucrado como agente exportador o agente importador. 
+
+Para propósitos del SIC, la energía correspondiente a importaciones provenientes de agentes exportadores externos (Internacionales), a través de enlaces de interconexión, se consideran como generación medida en el punto de interconexión. 
+
+Asi mismo, la energía correspondiente a exportaciones con destino a agentes importadores externos a través de enlaces de interconexión, se considera como demanda del agente nacional que lo representa en ese punto de interconexión. 
+
+Cada comercializador asume en proporción a su demanda, una parte de las pérdidas de energía en el STN. 
+
+Una vez evaluada la distribución de pérdidas, se calcula la Demanda comercial de cada comercializador como la suma de la demanda propia (medida en sus fronteras) y su participación en las pérdidas del STN. 
+
+El cálculo de las demandas de comercializadores, el tratamiento de las pérdidas de distribución y el tratamiento de la generación embebida es el siguiente: 
+
+Donde: 
+
+A, B, C, G1 y G2: Generadores y comercializadores 
+
+Un comercializador está delimitado por un conjunto de fronteras comerciales entre las cuales se identifican fronteras de intercambio y fronteras de generación. Entre las fronteras de intercambio se identifican las fronteras con el STN, con base en las cuales se calculan las pérdidas de ésta red. 
+
+F1:Energía exportada por A hacia la STN
+
+F2:Energía importada por A desde la STN
+
+F3:Energía importada por A desde B
+
+F7:Energía exportada por A hacia B
+
+G1:Energía exportada por el Generador-1
+
+F11:Energía importada por el Generador-1 (Demanda de G1)
+
+G2:Energía exportada por el Generador-2
+
+F12:Energía importada por el Generador-2 (Demanda de G2)
+
+Entonces: 
+
+DMA = G1 + (F2+F3+F4) - (F1+F7+F9):Demanda no ajustada de A
+
+DMB = (F6+F7+F8) - (F3+F5+F10):Demanda no ajustada de B
+
+DMC = G2 + (F9+F10) - (F4+F8):Demanda no ajustada de C
+
+DMG1 = f11:Demanda no ajustada de G1
+
+DMG2 = f12:Demanda no ajustada de G2
+
+La demanda calculada de esta manera incluye el total de pérdidas en la red de transporte a nivel de tensión menor de 220 Kv. El comercializador debe asumir las pérdidas en niveles de tensión menores al STN asociadas a su demanda. Si para atender la demanda de un comercializador se pasa por las fronteras comerciales de otro comercializador, las pérdidas ocasionadas por este intercambio en las redes de transporte en que se encuentra el comercializador exportador deben ser asumidas por el comercializador importador en cada frontera. 
+
+Con base en lo anterior, la demanda de los comercializadores debe ser ajustada de la siguiente manera: 
+
+Cada uno de los flujos medidos en fronteras diferentes al STN entre comercializadores y consumos de generadores embebidos, debe ser referido a las fronteras del STN, aplicando factores mayores que 1.0. La diferencia entre el valor referido y el valor medido refleja las pérdidas en redes diferentes al STN asociadas a esta energía. 
+
+Cada una de estas medidas identifica o relaciona a dos comercializadores, un importador y otro exportador. Las pérdidas que esta energía ocasiona en las redes donde se encuentra el comercializador exportador se suman a la demanda del comercializador importador y se resta de la demanda del exportador en cada frontera. De esta manera se mantiene el balance de pérdidas en estas redes y por lo tanto de la demanda. En el caso del ejemplo anterior el tratamiento es el siguiente: 
+
+Medidas ReferidasPérdidas Asociadas
+
+F3R = @3*F3F3P = F3R – F3
+
+F4R = @4*F4F4P = F4R – F3
+
+F7R = @7*F7F7P = F7R – F7
+
+F8R = @8*F8F8P = F8R – F8
+
+F9R = @9*F9F9P = F9R – F9
+
+F10R = @10*F10F10P = F10R – F10
+
+f11R = @11*F11f11P = f11R – f11
+
+f12R = @12*F12f12P = f12R – f12
+
+Donde @ i: Factor mayor que 1 para referir la medida al nodo del STN mas cercano
+
+DEMANDAS AJUSTADAS. 
+
+DMAa = DMA + (F3P + F4P) - (F7P + F9P + f11P)
+
+DMBa = DMB + (F7P + F8P) - (F3P + F10P)
+
+DMCa = DMC + (F9P + F10P) - (F4P + F8P + f12P)
+
+DMG1a = DMG1 + f11P
+
+DMG2a = DMG2 + f12P
+
+GENERACIÓN EMBEBIDA. 
+
+Cuando la frontera que relaciona a un generador con un comercializador está ubicada sobre una red diferente al STN, se dice que esa unidad de generación está embebida en el comercializador. 
+
+La generación embebida (G1 en A y G2 en C) tienen el siguiente tratamiento: 
+
+El comercialziador anfitrión asumirá las pérdidas asociadas a la parte de la generación embebida en su sistema y que él requiera para atender su demanda, es decir, esta parte de la generación le será reconocida al generador en su punto de medida (lado de alta del transformador del generador). 
+
+De otro lado, si el valor total de la generación embebida es mayor que la demanda ajustada del comercializador anfitrión, el generador asumirá las pérdidas ocasionadas en la red donde se encuentra el comercializador anfitrión, asociadas a la energía no requerida por éste. Esto es equivalente a decir que el generador asume las pérdidas necesarias para colocar el excedente de su generación en las fronteras del STN. 
+
+Por lo tanto, en el ejemplo anterior esto se aplica de la siguiente manera: 
+
+SI ( G1 > DMAa ) Entonces:
+
+G1P = @1 * (G1 - DMAa): Pérdidas en las redes de A asociadas al excedente de generación
+
+DMAa = DMAa - G1P: Redefinición de la demanda ajustada
+
+DMG1a = DMG1a + G1P: Demanda del Generador ajustada
+
+FIN - SI
+
+Donde @1: Factor menor que 1.0 para calcular las pérdidas en la red interna de A, debido al excedente de generación no requerido por este sistema.
+
+Al generador 2 se le aplica un procedimiento similar. 
+
+Cuando hay mas de un generador embebido y hay exportaciones, a cada generador se le asigna un valor proporcional a su generación medida. 
+
+Estos valores de demandas y generaciones ajustadas serán los utilizados posteriormente como demandas y generaciones reales en los modulos de balances de contratos, evaluación de compras y ventas a la Bolsa y en los procesos de reconciliación y penalización. 
+
+PÉRDIDAS EN EL SISTEMA DE TRANSMISIÓN NACIONAL. 
+
+Para evaluar las pérdidas reales en el STN es necesario contar con medidas en todos los puntos donde se relaciona esta red con niveles de tensión mas bajos a través de transformadores, es decir, todos los puntos de medida en los que el STN esta involucrado como área exportadora o área importadora. 
+
+El total de pérdidas en el STN está definido como la sumatoria de las inyecciones de energía al STN (flujos de baja a alta tensión), menos la sumatoria de los flujos que salieron del STN (flujos de alta a baja tensión). 
+
+FORMULACIÓN GENERAL. 
+
+Energía medida por cada contador: 
+
+EgCtrih = FacCtri *FAcPdCtri *(LeCtrih - LeCtri(h-1))
+
+ImAgjh = åEgCtrih Para todos los Contadores en los que el Ag-j es importador
+
+ExAgjh = åEgCtrih Para todos los Contadores en los que el Ag-j es exportador 
+
+Demanda y Generación de cada Agente: 
+
+Si el Agente es un comercializador Entonces: 
+
+DmAgih = ImAgih - ExAgih 
+
+Si el Agente es Autoproductor (Consumidor y exportador a la vez) y su DmAg < 0) Entonces:
+
+GenAgih = DmAgih
+
+DmAgih = 0
+
+Si el Agente es un Generador Entonces:
+
+DmAgih = ImAgih
+
+GenAgih = ExAgih
+
+Análisis de la generación embebida. 
+
+Para todos los generadores embebidos en el mismo Agente comercializador se realiza el siguiente análisis:
+
+DifDemjh=(Genkh) -DmAgjh Donde los Gen-k están embebidos en el Ag-j
+
+Si (DifDemjh > 0) Entonces:
+
+PrdGenih = FacPdGeni *DifDemjh*GenAgih/Genkh
+
+DmGenih = DmGenih+PdrGenih
+
+DmAgih = DmAgih - PdrGenih
+
+Pérdidas reales del STN
+
+ImSTNh = EgCtrih Para todos los Contadores en los que el STN es importador
+
+ExSTNh = EgCtrih Para todos los Contadores en los que el STN es exportador
+
+PrdSTNh = ImSTNh - ExSTNh Para todos los Contadores en los que el STN es importador
+
+TRATAMIENTO DE LAS PERDIDAS DEL STN EN EL SIC. 
+
+Las pérdidas de referencia para el STN, se asignan en forma proporcional al consumo horario de cada comercializador. 
+
+JORGE EDUARDO COCK LONDOÑO
+
+Presidente 
+
+EVAMARIA URIBE TOBON 
+
+Director Ejecutivo 
+
+ANEXO A-2. 
+
+FUNCION DE DISPONIBILIDAD. 
+
+El objetivo es calcular la disponibilidad comercial, la cual es utilizada para ejecutar el despacho ideal. 
+
+A partir de la disponibilidad real y de la disponibilidad declarada se calcula la disponibilidad comercial. 
+
+La disponibilidad real corresponde a la disponibilidad promedio calculada a partir de la fecha de los eventos que modifican la disponibilidad de las unidades de generación de los generadores (AAAA.MM.DD.HHMM) así como de la disponibilidad reportada al CND al ocurrir el cambio de estado de una unidad 
+
+Se Identifican varios procesos dependiendo del estado de la máquina. Uno para unidades en falla, otro para unidades sin falla y un tercero para indisponibilidades parciales. 
+
+CONSIDERACIONES. 
+
+El SIC dispone de la siguiente información: 
+
+Disponibilidades reales horarias AAi,p, evaluadas por el CND a partir de los eventos y cambios de estados de generación reportados por los sistemas y que no consideran variables tales como tasas de toma de carga, tiempos requeridos para que la máquina pase de frio a caliente, etc. y tienen en cuenta si la indisponibilidad fue ocasionada por fallas externas a la máquina. ( CND ordeno el disparo o el disparo se ocasionó por fallas en el sistema de transmisión, o su salida fue ocasionada por un evento de generación en otra unidad del sistema ). 
+
+Banderas asociadas a nivel horario del estado de la unidad, tales como: Estado = (i: Indisponible, D: Disponible) y Tipo de Falla ( TF = "Interna" o TF = "Externa" ) 
+
+Variables intermedias para el cálculo de disponibilidad, utilizadas el día o días anteriores SUAAi,p. 
+
+Generaciones reales a nivel horario. AAi,p 
+
+Disponibilidad Declarada a nivel horario. SAAi,p 
+
+Disponibilidad Comercial a nivel horario. SRAAi,p 
+
+* Velocidad de toma de carga. LRj 
+
+* Carga Sincronizante. SRj 
+
+* Capacidad Efectiva neta de la máquina. GUMCi 
+
+* Tfrio_caliente: Tiempo minimo requerido para sincronizar una unidad al sistema luego de superada una falla. 
+
+PROCEDIMIENTO. 
+
+Descripción. 
+
+Se parte de la disponibilidad real para todas las unidades y todos los periodos horarios. 
+
+Se chequea la disponibilidad y el estado de la unidad en el período horario analizado. 
+
+Si la unidad está disponible se valida si en los períodos previos la unidad tiene activada la bandera de falla. Los períodos previos analizados son tales que estan comprendidos entre el período analizado y un tiempo requerido para que la unidad pase de frío a caliente mas una hora adicional. 
+
+Si se encuentra la bandera de falla activada en los periodos previos, recalcula la disponibilidad desde el periodo siguiente al de falla ( k+1 ) hasta el periodo actual así: 
+
+si ( p - k ) <= Tfrio_caliente 
+
+La disponibilidad Comercial será 
+
+SUAAi,p = 0 
+
+SAAi,p = 0 
+
+SRAAi,p = 0 
+
+si ( p - k ) > Tfrio_caliente 
+
+La disponibilidad comercial será 
+
+SUAAip = ( SRj + LRj ) 
+
+SRAAi,p = ( SRj + LRj )/2 
+
+Si la disponibilidad calculada es mayor que la disponibilidad declarada, la disponibilidad comercial se iguala a la Diponibilidad declarada y se chequea contra la capacidad efectiva neta máxima de la maquina. 
+
+Si SRAAi,p > SAAi,p 
+
+SRAAi,p = SAAi,p 
+
+Si SRAAi,p > GUMCi 
+
+SRAAi,p = GUMCi 
+
+SUAAi,p = GUMCi 
+
+* Si la unidad está indisponible ( Bandera de falla activada y Tipo de Falla = "Interna" Disponibilidad real 0 ) 
+
+SRAAi,p = 0 
+
+* Si la unidad está indisponible (Bandera de falla activada y Tipo de Falla = "Externa") 
+
+SRAAi,p = SRAAi,p -1 (Disponibilidad comercial previa a la falla) 
+
+Si la unidad no esta en falla según la disponibilidad real 
+
+SUAAi,p = AAi,p 
+
+SRAAi,p = AAi,p 
+
+Si SAAi,p < SRAAi,p 
+
+SRAAi,p = SAAi,p 
+
+En todos los casos cuando se observa un cambio de disponibilidad al pasar la unidad de un valor de disponibilidad diferente de cero a otro también diferente de cero. 
+
+Si la disponibilidad se reduce (AAi,p < SRAAi,p-1 ) 
+
+SRAAi,p = AAi,p 
+
+Si la disponibilidad declarada es mayor que la disponibilidad real 
+
+Si SAAi,p > AAi,p 
+
+SRAAi,p = AAi,p 
+
+Si la disponibilidad declarada es menor que la disponibilidad real 
+
+Si SAAi,p < AAi,p 
+
+SRAAi,p = SAAi,p 
+
+Cuando se incrementa la disponibilidad ( Para AAi,p > SRAAi,p-1 > 0 ) 
+
+Para incrementos de disponibilidad se recalcula la disponibilidad del periodo a partir de la disponibilidad de la variable intermedia en el periodo (i-1) y considerando la rata de toma de carga, y se valida con la disponibilidad Declarada. 
+
+SUAAi,p = SUAAi,p-1 + LRi 
+
+SRAAi,p = (SUAAi,p-1 + SUAAi,p)/2 
+
+Si la disponibilidad calculada es mayor que la disponibilidad Declarada AAi,p 
+
+SRAAi,p = SAAi,pi 
+
+JORGE EDUARDO COCK LONDOÑO 
+
+Presidente 
+
+EVAMARIA URIBE TOBON 
+
+Director Ejecutivo 
+
+ANEXO A-3. 
+
+FUNCION LIQUIDACION DE TRANSACCIONES. 
+
+FUNCION: Liquidación de transacciones - SICLIQU 
+
+Esta función tiene por objeto lo siguiente: 
+
+Asignar los contratos de energía a largo plazo entre los generadores y comercializadores registrados ante el Administrador del SIC, de acuerdo con las condiciones de la demanda comercial (Demanda real afectada con pérdidas internas y pérdidas del STN). 
+
+Determinar los pagos en la Bolsa correspondientes a las compraventas de energía de los comercializadores cuando se presentan diferencias entre sus contratos de energía a largo plazo y la demanda real. 
+
+Calcular los pagos o recibos de dinero para los miembros que representan las interconexiones internacionales, debidos a las transferencias de energía que se presentan a través de los enlaces internacionales de interconexión. 
+
+Determinar los pagos a efectuar a los generadores registrados ante el Administrador del SIC que no están despachados centralmente, por concepto de energía generada y no contratada. 
+
+Determinar los pagos y cobros a los generadores por concepto de desviaciones del programa y por las compras o ventas a la bolsa de energía. 
+
+DEFINICIONES. 
+
+<Aparte modificado por el artículo 11 de la Resolución CREG- 112 de 1998. El nuevo texto es el siguiente:> 
+
+* "Pague lo contratado: Tipo de contrato en el que el comercializador se compromete a pagar toda la energía contratada, independiente de que esta sea consumida o no. Si el consumo es mayor que la energía contratada, la diferencia se paga al precio de la Bolsa correspondiente, según se trate de transacciones domésticas o internacionales. Si el consumo es menor que la energía contratada, este excedente se le paga al comercializador al precio de la Bolsa correspondiente, según se trate de transacciones domésticas o internacionales. 
+
+* Pague lo contratado - condicional: Tipo de contrato, que en caso de ser despachado, tiene el tratamiento que se le da a un contrato tipo 'Pague lo contratado'. Este contrato solo se despacha si, con base en el precio (orden de méritos), se requiere total o parcialmente para atender la demanda del comercializador, si el consumo es menor que la energía contratada, este excedente se le paga al comercializador al precio de la Bolsa correspondiente, según se trate de transacciones domésticas o internacionales. 
+
+* Pague lo demandado: Tipo de contrato en el que el agente comprador solamente paga (a precio de contrato) su consumo, siempre y cuando éste sea inferior o igual a la cantidad de energía contratada (Tope máximo). Si el consumo es superior, la diferencia se liquida al precio de la Bolsa correspondiente, según se trate de transacciones domésticas o internacionales. 
+
+* Demanda comercial doméstica o nacional: Corresponde al valor de la demanda doméstica total del comercializador, afectada con las pérdidas en las redes de Transmisión Regional o de Distribución Local y las pérdidas del STN. 
+
+* Demanda comercial internacional: Corresponde al valor de la demanda internacional total del comercializador, afectada con las pérdidas en las redes Transmisión Regional o de Distribución Local y las pérdidas del STN. 
+
+Para la demanda comercial doméstica de cada comercializador, independiente de los tipos de contrato de energía a largo plazo que haya suscrito y en cada período tarifario se realiza el siguiente proceso: 
+
+* Se toma como base su demanda comercial doméstica calculada. 
+
+* Se ordenan todos sus contratos con destino a cubrir su demanda comercial doméstica en la siguiente forma: primero se ubican todos los contratos del tipo "Pague lo contratado", después se ordenan por mérito de precio todos los contratos del tipo "Pague lo contratado condicional", a continuación se ubican también en orden ascendente de precios los contratos del tipo "Pague lo demandado". 
+
+* Se determinan los contratos necesarios para satisfacer la demanda comercial doméstica del comercializador, en el orden descrito anteriormente. 
+
+* Si la suma de todos los contratos del comercializador es menor o igual a su demanda comercial doméstica, entonces todos los contratos se consideran asignados. 
+
+* Si los contratos no cubren su demanda comercial doméstica, el comercializador paga la diferencia al precio de la Bolsa para transacciones domésticas en la hora respectiva. 
+
+* Si hay contratos del tipo "Pague lo contratado condicional" que, de acuerdo con el ordenamiento inicial, no fueron requeridos para atender la demanda comercial doméstica del comercializador, éstos no se consideran despachados. 
+
+* Los contratos tipo "Pague lo contratado" siempre se consideran asignados y si la suma de éstos supera la demanda comercial doméstica del comercializador, este último recibe un pago por la diferencia liquidada al precio de la Bolsa para transacciones domésticas en la hora respectiva. 
+
+* Si hay uno o más contratos tipo "Pague lo demandado" del mismo precio que conlleven a superar la demanda comercial doméstica del comercializador, entonces se determina la porción de cada contrato asignada en forma proporcional a las magnitudes de los contratos. 
+
+Para la demanda comercial internacional de cada comercializador, independiente de los tipos de contrato de energía a largo plazo que haya suscrito y en cada período tarifario se realiza el siguiente proceso: 
+
+* Se toma como base su demanda comercial internacional calculada. 
+
+* Se ordenan todos sus contratos con destino a cubrir su demanda comercial internacional en la siguiente forma: primero se ubican todos los contratos del tipo "Pague lo contratado", después se ordenan por mérito de precio todos los contratos del tipo "Pague lo contratado condicional", a continuación se ubican también en orden ascendente de precios los contratos del tipo "Pague lo demandado". 
+
+* Se determinan los contratos necesarios para satisfacer la demanda comercial internacional del comercializador, en el orden descrito anteriormente. 
+
+* Si la suma de todos los contratos del comercializador es menor o igual a su demanda comercial internacional, entonces todos los contratos se consideran asignados. 
+
+* Si los contratos no cubren su demanda comercial internacional, el comercializador paga la diferencia al precio de la Bolsa para transacciones internacionales (exportaciones) en la hora respectiva. 
+
+* Si hay contratos del tipo "Pague lo contratado condicional" que, de acuerdo con el ordenamiento inicial, no fueron requeridos para atender la demanda comercial internacional del comercializador, éstos no se consideran despachados. 
+
+Los contratos tipo "Pague lo contratado" siempre se consideran asignados y si la suma de éstos supera la demanda comercial internacional del comercializador, este último recibe un pago por la diferencia liquidada al precio de la Bolsa para transacciones internacionales (exportaciones) en la hora respectiva. 
+
+* Si hay uno o más contratos tipo "Pague lo demandado" del mismo precio que conlleven a superar la demanda comercial internacional del comercializador, entonces se determina la porción de cada contrato asignada en forma proporcional a las magnitudes de los contratos. 
+
+Para los generadores que aparezcan en el despacho ideal cubriendo demanda nacional y para cada período de liquidación, los contratos asignables a la demanda comercial doméstica y las compras o ventas a la Bolsa que se efectúen por este concepto se determinan en la siguiente forma: 
+
+* Con base en la programación SIC (despacho ideal), se determina el despacho ideal de cada generador (sumatoria de sus unidades) para atender demanda nacional. 
+
+* Se compara el despacho ideal de cada generador con el total de sus contratos despachados (asignados) para atender demanda nacional. 
+
+* Si el volumen total de los contratos es mayor que la generación total ideal para el generador en el mercado doméstico, éste es responsable de pagar esta diferencia al precio de la Bolsa para transacciones domésticas en la hora respectiva. 
+
+* Si el volumen total de los contratos es menor que la generación ideal para el generador en el mercado doméstico, éste recibirá un pago correspondiente a la diferencia, liquidada al precio de la Bolsa para transacciones domésticas en la hora respectiva. 
+
+Para los generadores que aparezcan en el despacho ideal cubriendo demanda internacional y para cada período de liquidación, los contratos asignables a la demanda comercial internacional y las compras o ventas a la Bolsa que se efectúen por este concepto se determinan en la siguiente forma: 
+
+* Con base en la programación SIC (despacho ideal), se determina el despacho ideal de cada generador (sumatoria de sus unidades) para atender demanda internacional. 
+
+* Se compara el despacho ideal de cada generador con el total de sus contratos despachados (asignados) para atender demanda internacional. 
+
+* Si el volumen total de los contratos es mayor que la generación total ideal para el generador en el mercado internacional, éste es responsable de pagar esta diferencia al precio de la Bolsa para transacciones internacionales en la hora respectiva. 
+
+* Si el volumen total de los contratos es menor que la generación ideal para el generador en el mercado internacional, éste recibirá un pago correspondiente a la diferencia, liquidada al precio de la Bolsa para transacciones internacionales en la hora respectiva. 
+
+Los generadores no despachados centralmente y registrados ante el SIC no se consideran para propósitos de fijar Precios en la Bolsa de Energía; sin embargo, la parte de su generación inyectada al sistema (no contratada) debe ser pagada al precio en la Bolsa para transacciones domésticas en la hora respectiva. 
+
+Los consumos de los generadores y en general la energía que aparece como demanda de los mismos, se liquida al precio en la Bolsa de Energía correspondiente según el tipo de transacción (doméstica o internacional). 
+
+Notas de vigencia
+
+Legislación anterior
+
+JORGE EDUARDO COCK LONDOÑO 
+
+Presidente 
+
+EVAMARIA URIBE TOBON 
+
+Director Ejecutivo 
+
+ANEXO A-4. 
+
+FUNCIÓN PRECIO EN LA BOLSA DE ENERGÍA. 
+
+<Anexo modificado por el artículo 2 de la Resolución 11 de 2010. El nuevo texto es el siguiente:> 
+
+FUNCIÓN PRECIO EN LA BOLSA DE ENERGÍA – SICPREC. 
+
+Con esta función se calcularán los Precios en la Bolsa de Energía a partir del Despacho Ideal, estableciendo un precio único para cada mercado según la demanda que se atienda: Demanda Total Doméstica, Demanda Total Doméstica más Demanda Internacional de Despacho Económico Coordinado, y Demanda Total Doméstica más Demanda Internacional de Despacho Económico Coordinado más Demanda No Doméstica, en cada período horario, sin considerar los precios de oferta de plantas inflexibles.
+
+EN LA FUNCIÓN SICPREC SE REALIZARÁN LOS SIGUIENTES PROCESOS:
+
+IDENTIFICACIÓN DE PLANTAS INFLEXIBLES. En la declaración del día anterior al despacho, cada generador notificará las inflexibilidades en la operación de sus unidades generadoras. Sin embargo, durante el proceso de ejecución de la programación, pueden aparecer inflexibilidades adicionales, las cuales pueden ocurrir porque una unidad puede estar programada en tal forma que es incapaz de cambiar su generación para suministrar demanda adicional incremental (variación positiva o negativa) al sistema y por lo tanto no entrará en el cálculo de los Precios en la Bolsa de Energía, excepto cuando la unidad esté programada en su disponibilidad declarada o comercial, según el caso, y la misma pueda tener una variación negativa.
+
+DETERMINACIÓN DEL PRECIO EN LA BOLSA DE ENERGÍA. <Ver Notas de Vigencia sobre las consideraciones a este artículo establecidas en el artículo 91 de la Resolución 101 113 de 2026> Para determinar los Precios en la Bolsa de Energía se procederá en la siguiente forma:
+
+Notas de Vigencia
+
+a) Se tomará la generación del Despacho Ideal para la atención de la Demanda Total Doméstica más la Demanda Internacional de Despacho Económico Coordinado más la Demanda No Doméstica.
+
+b) Con los resultados del literal a., para cada hora se ordenarán las plantas despachadas de acuerdo con las ofertas de precios a la Bolsa de Energía de menor a mayor.
+
+c) El Máximo Precio Ofertado horario, MPO, para el mercado internacional (Demanda Internacional de Despacho Económico Coordinado más Demanda No Doméstica) y el mercado nacional (Demanda Total Doméstica) se determinará de la siguiente forma: 
+
+-- Para el mercado que atiende Demanda Total Doméstica más Demanda Internacional de Despacho Económico Coordinado más Demanda No Doméstica el MPOK corresponderá al precio ofertado a la Bolsa de Energía de la última planta requerida para atender la Demanda Total Doméstica más Demanda Internacional de Despacho Económico Coordinado más Demanda No Doméstica, que no sea inflexible, resultante del ordenamiento planteado en el literal b).
+
+-- Para el mercado que atiende Demanda Total Doméstica más Demanda Internacional de Despacho Económico Coordinado MPOI corresponderá al precio ofertado a la Bolsa de Energía de la última planta requerida para atender la Demanda Total Doméstica más Demanda Internacional de Despacho Económico Coordinado, que no sea inflexible, resultante del ordenamiento planteado en el literal b).
+
+-- Para el mercado que atiende Demanda Total Doméstica el MPON se determina con el ordenamiento de las plantas del literal b) y se tomará el precio ofertado por la última planta requerida para atender la Demanda Total Doméstica, que no sea inflexible.
+
+d) <Literal modificado por el artículo 3 de la Resolución 101 051 de 2024. El nuevo texto es el siguiente:> Se determinarán los valores adicionales () para los mercados nacionales e internacionales de la siguiente forma:
+
+- Para atención de la Demanda Total Doméstica, el Valor Adicional para la Demanda Total Doméstica () se calculará conforme a la siguiente ecuación:
+
+Donde:
+
+DN,i Demanda Total Doméstica en la hora i.
+
+DFN,jCostos no cubiertos por concepto de arranque y parada de la planta j para atender Demanda Total Doméstica. 
+
+DIN,j Costos no cubiertos por concepto de generación ideal en condición inflexible de la planta j para atender Demanda Total Doméstica. 
+
+NP Número de plantas térmicas.
+
+Parj,z Precios de oferta de arranque – parada z de la planta j resultantes del Despacho Ideal. En caso de presentarse transición entre configuraciones de una planta de ciclo combinado, el arranque – parada de la nueva configuración será valorado como la suma de los precios de arranque – parada, según estado térmico: frío, tibio o caliente, de unidades adicionales entre la configuración del período t y la configuración del período t-1. Será cero si la planta solo opera en el despacho ideal.
+
+En caso de que no se presente Generación de Seguridad fuera de mérito, la sumatoria de esta variable será igual a la sumatoria del 
+
+Precios de oferta de arranque-parada z de la planta j en los que se haya incurrido en la operación real. En caso de presentarse transición entre configuraciones de una planta de ciclo combinado, el arranque – parada de la nueva configuración será valorado como la suma de los precios de arranque – parada, según estado térmico: frío, tibio o caliente, de unidades adicionales entre la configuración del período t y la configuración del período t-1. 
+
+Si el arranque de la planta y/o unidad de generación no es producto de una instrucción del CND por seguridad y/o economía del SIN, no se tendrá en cuenta.
+
+Así mismo, sólo se remunerará el arranque de la planta y/o unidad de generación si luego de la rampa de encendido, la misma permanece con generación mayor o igual a su mínimo técnico durante al menos un periodo de tiempo en que se fracciona el día en el Despacho Económico. Lo anterior, excepto si por instrucción del CND la planta no puede cumplir con este tiempo, en cuyo caso el arranque será remunerado.
+
+l Número de arranques de la planta j. Si el arranque de la planta j se requiere únicamente para cumplir la generación en pruebas solicitadas por los agentes en los períodos siguientes al arranque, no se tiene en cuenta el arranque. 
+
+GFN,j,i Variable igual a 0 si la planta j es inflexible en la hora i, en caso contrario es igual a la Generación ideal de la planta j en la hora i para atender Demanda Total Doméstica.
+
+MPON,i Máximo Precio de Oferta para atender la Demanda Total Doméstica en la hora i.
+
+Pofj Precio ofertado a la Bolsa de Energía por la planta j.
+
+GIN,j,i Si la planta j es inflexible en la hora i la variable es igual a la Generación ideal de la planta j en la hora i para atender Demanda Total Doméstica. En caso contrario es igual a 0. Si la planta j en la hora i se encuentra en pruebas solicitadas por los agentes y toda la generación ideal de la planta corresponde a generación en pruebas (MinIdealu) este valor es cero. En caso de que la planta en pruebas no tenga asociada toda su generación ideal en pruebas y la planta j sea inflexible en la hora i, esta variable será igual a la siguiente expresión:
+
+Donde:
+
+GN,j,i: Generación ideal de la planta j para atender la Demanda Total Doméstica en la hora i
+
+MinIdealu: Cantidad mínima a programar en el Despacho Ideal para la unidad u en pruebas de la planta j
+
+TUP: Total de unidades en pruebas de la planta j
+
+RPj Precio de Reconciliación Positiva calculado para la planta j sin incluir los costos de arranque y parada. 
+
+DIj Costos no cubiertos por concepto de generación ideal en condición inflexible de la planta j. 
+
+GII,j,i Si la planta j es inflexible en la hora i la variable es igual a la Generación ideal de la planta j en la hora i para atender la Demanda Internacional de Despacho Económico Coordinado. En caso contrario es igual a 0. Si la planta j en la hora i se encuentra en pruebas solicitadas por los agentes y toda la generación ideal de la planta corresponde a generación en pruebas (MinIdealu) este valor es cero. En caso de que la planta en pruebas no tenga asociada toda su generación ideal en pruebas y la planta j sea inflexible en la hora i, esta variable será igual a la siguiente expresión:
+
+Donde:
+
+GT,j,i Generación ideal de la planta j para atender la Demanda Internacional de Despacho Económico Coordinado en la hora i
+
+GIK,j,i Si la planta j es inflexible en la hora i la variable es igual a la Generación ideal de la planta j en la hora i para atender la Demanda no Doméstica. En caso contrario es igual a 0. Si la planta j es la hora i se encuentra en pruebas solicitadas por los agentes y toda la generación ideal de la planta corresponde a generación en pruebas (MinIdealu) este valor es cero. En caso de que la planta en pruebas no tenga asociada toda su generación ideal en pruebas y la planta j sea inflexible en la hora i, esta variable será igual a la siguiente expresión:
+
+Dónde:
+
+GI,j,i: Generación ideal de la planta j para atender la Demanda no Doméstica en la hora i 
+
+MPOI,i Máximo Precio de Oferta para atender Demanda Total Doméstica más la Demanda Internacional de Despacho Económico Coordinado en la hora i.
+
+MPOK,i Máximo Precio de Oferta para atender Demanda Total Doméstica más la Demanda Internacional de Despacho Económico Coordinado más la Demanda no Doméstica en la hora i.
+
+Wj Porcentaje de la generación ideal de la planta j que atiende la Demanda Total Doméstica.
+
+GN,j,i Generación ideal de la planta j para atender la Demanda Total Doméstica en la hora i.
+
+Gj,i Generación ideal de la planta j en la hora i.
+
+En el caso en que la Generación ideal de la planta j en el día sea igual a cero, el porcentaje de la generación ideal de la planta j que atiende la Demanda Total Doméstica () será igual a cero.
+
+- Para atención de la Demanda Internacional de Despacho Económico Coordinado y/o la Demanda No Doméstica, el Valor adicional para la Demanda Internacional de Despacho Económico Coordinado y/o la Demanda No Doméstica () se calculará conforme a la siguiente ecuación: 
+
+Donde:
+
+DI,i Demanda Internacional de Despacho Económico Coordinado más Demanda No Doméstica en la hora i.
+
+DFI+K,j Costos no cubiertos por concepto de arranque y parada de la planta j para atender la Demanda Internacional de Despacho Económico Coordinado y la Demanda no Doméstica. 
+
+DII+K,jCostos no cubiertos por concepto de generación ideal en condición inflexible de la planta j para atender la Demanda Internacional de Despacho Económico Coordinado y la Demanda no Doméstica. 
+
+NP Número de plantas térmicas.
+
+Parj,z Precios de oferta de arranque – parada z de la planta j resultantes del Despacho Ideal. En caso de presentarse transición entre configuraciones de una planta de ciclo combinado, el arranque – parada de la nueva configuración será valorado como la suma de los precios de arranque – parada, según estado térmico: frío, tibio o caliente, de unidades adicionales entre la configuración del período t y la configuración del período t-1. Será cero si la planta solo opera en el despacho ideal.
+
+En caso de que no se presente Generación de Seguridad fuera de mérito, la sumatoria de esta variable será igual a la sumatoria del 
+
+Precios de oferta de arranque-parada z de la planta j en los que se haya incurrido en la operación real. En caso de presentarse transición entre configuraciones de una planta de ciclo combinado, el arranque – parada de la nueva configuración será valorado como la suma de los precios de arranque – parada, según estado térmico: frío, tibio o caliente, de unidades adicionales entre la configuración del período t y la configuración del período t-1. 
+
+Si el arranque de la planta y/o unidad de generación no es producto de una instrucción del CND por seguridad y/o economía del SIN, no se tendrá en cuenta. 
+
+Así mismo, sólo se remunerará el arranque de la planta y/o unidad de generación si luego de la rampa de encendido, la misma permanece con generación mayor o igual a su mínimo técnico durante al menos un periodo de tiempo en que se fracciona el día en el Despacho Económico. Lo anterior, excepto si por instrucción del CND la planta no puede cumplir con este tiempo, en cuyo caso el arranque será remunerado.
+
+Número de arranques de la planta j. Si el arranque de la planta j se requiere únicamente para cumplir la generación en pruebas solicitadas por los agentes en los periodos siguientes al arranque, no se tiene en cuenta el arranque.
+
+GFI,j,i Variable igual a 0 si la planta j es inflexible en la hora i, en caso contrario es igual a la Generación ideal de la planta j en la hora i para atender la Demanda Internacional de Despacho Económico Coordinado. 
+
+MPOI,i Máximo Precio de Oferta para atender Demanda Total Doméstica más la Demanda Internacional de Despacho Económico Coordinado en la hora i.
+
+Pofj Precio ofertado a la Bolsa de Energía por la planta j.
+
+GFK,j,i Variable igual a 0 si la planta j es inflexible en la hora i, en caso contrario es igual a la Generación ideal de la planta j en la hora i para atender la Demanda no Doméstica. 
+
+MPOK,i Máximo Precio de Oferta para atender Demanda Total Doméstica más la Demanda Internacional de Despacho Económico Coordinado más la Demanda no Doméstica en la hora i.
+
+DIj Costos no cubiertos por concepto de generación ideal en condición inflexible de la planta j.
+
+Wj Porcentaje de la generación ideal de la planta j que atiende la Demanda Total Doméstica.
+
+En el caso en que la Demanda Internacional de Despacho Económico Coordinado más Demanda No Doméstica en el día sea igual a cero, el Valor adicional para la Demanda Internacional de Despacho Económico Coordinado y/o la Demanda No Doméstica () será igual a cero.
+
+Notas de Vigencia
+
+Legislación Anterior
+
+e) <Literal modificado por el artículo 4 de la Resolución 101-18 de 2023. El nuevo texto es el siguiente:> Se determinará el Precio de Bolsa para cada mercado, de la siguiente forma: 
+
+- Para atender Demanda Total Doméstica, se aplicará la siguiente ecuación, para cada hora i:
+
+- Para atender Demanda Internacional de Despacho Económico Coordinado, se aplicará la siguiente ecuación, para cada hora i: 
+
+- Para atender Demanda No Doméstica, se aplicará la siguiente ecuación, para cada hora i: 
+
+Donde: 
+
+Precio en la Bolsa de Energía para la Demanda Total Doméstica en la hora i.
+
+Precio en la Bolsa de Energía para la Demanda Internacional de Despacho Económico Coordinado en la hora i.
+
+Precio en la Bolsa de Energía para la Demanda no Doméstica en la hora i.
+
+Máximo Precio Ofertado para la Demanda Total Doméstica en la hora i.
+
+Máximo Precio Ofertado para Demanda Internacional de Despacho Económico Coordinado
+
+Máximo Precio Ofertado para Demanda no Doméstica en la hora i.
+
+Valor adicional para la Demanda Total
+
+Valor adicional para la Demanda Internacional de Despacho Económico Coordinado y Demanda No Doméstica
+
+La oferta de precios en la Bolsa de Energía se hará de acuerdo con la Resolución CREG 055 de 1994, o demás normas que la modifiquen o sustituyan. Sin embargo, para verificar si las cotizaciones de los generadores siguen el criterio definido en la resolución mencionada, la Comisión tomará en cuenta que los precios serán flexibles e incluirán el efecto de la incertidumbre y las diferentes percepciones de riesgo de los generadores.
+
+La incertidumbre y las diferentes percepciones de riesgo deberán estar fundamentadas en criterios objetivos, ya sea de análisis de los agentes basados en los fundamentales de los costos de generación, y/o tendencias históricas, observaciones o pronósticos de entidades de reconocida independencia a nivel nacional o internacional, tales como: Instituto de Hidrología, Meteorología y Estudios Ambientales -IDEAM, Operador del sistema y administrador del mercado -XM S.A. E.S.P., Unidad de Planeación Minero–Energética -UPME, Administración Atmosférica y Oceánica de los Estados Unidos – NOAA, entre otros.
+
+Notas de Vigencia
+
+Legislación Anterior
+
+Notas de Vigencia
+
+Legislación Anterior
+
+JORGE EDUARDO COCK LONDOÑO 
+
+Presidente 
+
+EVAMARIA URIBE TOBON 
+
+Director Ejecutivo 
+
+ANEXO A-5. 
+
+FUNCION RECONCILIACION. 
+
+FUNCION: RECONCILIACIÓN - SICRECO. 
+
+Esta función tiene por objeto efectuar la compensación (positiva o negativa) que se debe aplcar a los Generadores para cada uno de sus recursos ofertados, debido a las diferencias entre el despacho ideal, con base en el cual se atienden los contratos de energía a largo plazo y la generación real 
+
+De otro lado, también se cuantifica la desviación que presentan los Generadores de su generación real, con respecto a su generación programada (dada en el Redespacho) por cada recurso ofertado, la cual genera un cobro al generador, si este generador no ha participado como regulador ante el CND en la hora en proceso y se encuentra por fuera de un rango de tolerancia previamente determinado. 
+
+La diferencia entre el despacho ideal y el despacho programado representa los sobrecostos inevitables de la operación al tener en cuenta las restricciones normales o eventuales del Sistema Interconectado Nacional (restricciones eléctricas, reserva rodante, reserva para regulación de frecuencia y tensión, etc. ). 
+
+Puesto que la asignación de contratos de energía a largo plazo y las transacciones de energía en la bolsa para satisfacer la demanda, se realizan con base en el despacho ideal, es necesario evaluar la compensación (positiva o negativa) que se debe hacer a los generadores, ya que ellos generan de acuerdo con el despacho programado por el CND, con las restricciones. 
+
+Esta compensación en cada caso, se paga al precio de reconciliación, que está definido como el precio de oferta horario de cada recurso. 
+
+Adicionalmente y como un subproducto de esta operación, también se determinan los sobrecostos operativos por las restricciones, calculados como la sumatoria algebraica de los pagos y cobros de reconciliación. 
+
+CALCULO DE LA RECONCILIACIÓN. 
+
+Si para un generador su producción real excede a la generación del despacho ideal, la cuenta de éste por restricciones se incrementará y la de restricciones del sistema se decrementará, con el valor correspondiente a esta diferencia, liquidada al precio de reconciliación del generador. 
+
+REC = PR * (G.Real - G.Ideal) 
+
+Si para un generador su producción real es inferior a la generación del despacho ideal, la cuenta de éste por restricciones se decrementará y la de restricciones del sistema se incrementará, con el valor correspondiente a esta diferencia, liquidada al precio de reconciliación del generador. 
+
+REC = PR * (G.Ideal - G.Real) 
+
+CALCULO DE LA DESVIACIÓN. <Aparte modificado por el artículo 3 de la Resolución 101 119 de 2026. El nuevo texto es el siguiente:> 
+
+- Caso plantas de generación diferente a la variable:
+
+Si la generación real está por fuera de la franja de tolerancia de desviación aplicada al despacho programado (resultado del despacho programado o redespacho, según corresponda) de cada unidad o planta ofertada, según lo definido en el numeral 1.1.5 del Anexo A de la presente resolución, el generador deberá retribuir a la cuenta por pago de restricciones el valor absoluto de la diferencia entre la generación real y el despacho programado, multiplicado por el valor absoluto de la diferencia entre el precio de oferta y los siguientes precios de la Bolsa de Energía:
+
+a) Si la planta de generación o la unidad, aparece en el despacho ideal para cubrir exclusivamente demanda comercial nacional:
+
+b) Si la planta de generación o la unidad, aparece en el despacho ideal para cubrir total o parcialmente demanda comercial de Transacciones Internacionales de Electricidad (TIE):
+
+c) Si la planta de generación o la unidad, aparece en el despacho ideal para cubrir total o parcialmente demanda comercial internacional:
+
+d) Si la planta de generación o la unidad, no aparece en el despacho ideal:
+
+Si la generación real está dentro de la franja de tolerancia de desviación, definida en el numeral 1.1.5 del Anexo A de la presente resolución, a las unidades o plantas ofertadas de este generador no se le evalúa su desviación. Así mismo, tampoco se evalúa la desviación si la unidad de generación o planta se encuentra autorizada por el CND para desviarse de su programa.
+
+donde:
+
+ Precio de Oferta ($/MWh)
+
+ Precio de Bolsa para transacciones nacionales ($/MWh)
+
+ Precio de Bolsa para Transacciones internacionales de Electricidad (TIE) ($/ MWh)
+
+ Precio de Bolsa para transacciones internacionales (exportaciones) ($/MWh)
+
+ Generación Real (MWh)
+
+Generación Programada (resultado del redespacho) (MWh)
+
+ Desviación ($)
+
+- Caso plantas de generación variable Si la generación real está por fuera de la franja de tolerancia de desviación aplicada al despacho programado (resultado del despacho programado o redespacho, según corresponda) de cada unidad o planta ofertada, según lo definido en el numeral 1.1.5 del Anexo A de la presente resolución, el generador deberá retribuir a la cuenta por pago de restricciones el valor absoluto de la diferencia entre la generación real y el despacho programado, multiplicado por el precio de referencia de la desviación de que trata el literal b.2 del numeral 1.1.5 del Anexo A de la Resolución CREG 024 de 1995:
+
+a) Si la planta de generación o la unidad, aparece en el despacho ideal para cubrir exclusivamente demanda comercial nacional:
+
+b) Si la planta de generación o la unidad, aparece en el despacho ideal para cubrir total o parcialmente demanda comercial de Transacciones Internacionales de Electricidad (TIE):
+
+c) Si la planta de generación o la unidad, aparece en el despacho ideal para cubrir total o parcialmente demanda comercial internacional:
+
+d) Si la planta de generación o la unidad, no aparece en el despacho ideal:
+
+Si la generación real está dentro de la franja de tolerancia de desviación, definida en el numeral 1.1.5 del Anexo A de la presente resolución, a las unidades o plantas ofertadas de este generador no se le evalúa su desviación. Así mismo, tampoco se evalúa la desviación si la unidad de generación o planta se encuentra autorizada por el CND para desviarse de su programa.
+
+donde:
+
+ Precio por concepto de desviaciones conforme al literal b.2 del literal b del numeral 1.1.5 del Anexo A de la presente resolución del ($/MWh)
+
+ Generación Real (MWh)
+
+ Generación Programada (resultado del Redespacho) (MWh)
+
+ Desviación ($)
+
+Notas de Vigencia
+
+Legislación Anterior
+
+Cálculo de la desviación <Aparte modificado por el artículo 32 de la Resolución 60 de 2019. El nuevo texto es el siguiente:> 
+
+Si la generación real está por fuera de la franja de tolerancia de desviación aplicada al despacho programado (resultado del despacho programado o redespacho, según corresponda) de cada unidad o planta ofertada, según lo definido en el numeral 1.1.5 del Anexo A de la presente resolución, el generador deberá retribuir a la cuenta por pago de desviaciones el valor absoluto de la diferencia entre la generación real y el despacho programado, multiplicado por el valor absoluto de la diferencia entre el precio de oferta y los siguientes precios de la Bolsa de Energía: 
+
+a) Si la planta de generación o la unidad, aparece en el despacho ideal para cubrir exclusivamente demanda comercial nacional: 
+
+b) Si la planta de generación o la unidad, aparece en el despacho ideal para cubrir total o parcialmente demanda comercial de Transacciones Internacionales de Electricidad (TIE): 
+
+c) Si la planta de generación o la unidad, aparece en el despacho ideal para cubrir total o parcialmente demanda comercial internacional: 
+
+d) Si la planta de generación o la unidad, no aparece en el despacho ideal: 
+
+Si la generación real está dentro de la franja de tolerancia de desviación, definida en el numeral 1.1.5 del Anexo A de la presente resolución, a las unidades o plantas ofertadas de este generador no se le evalúa su desviación. Así mismo, tampoco se evalúa la desviación si la unidad de generación o planta de acuerdo con la oferta, participó como regulador en la operación del sistema.
+
+Donde: 
+
+Pof Precio de Oferta ($/MWh) 
+
+PBN Precio de Bolsa para transacciones nacionales ($/MWh) 
+
+PBT Precio de Bolsa para Transacciones internacionales de Electricidad (TIE) ($/MWh) 
+
+PBI Precio de Bolsa para transacciones internacionales (exportaciones) ($/MWh) 
+
+G. Real Generación Real (MWh) 
+
+G. Prog Generación Programada (resultado del Redespacho) (MWh) 
+
+DSV Desviación ($) 
+
+Texto modificado por la Resolución 112 de 1998:
+
+Cálculo de la desviación
+
+* "Si la generación real está por fuera de la banda del 5 % aplicada al despacho programado de cada unidad o planta ofertada, el generador deberá retribuir a la cuenta por penalizaciones el valor absoluto de la diferencia entre la generación real y el despacho programado, multiplicado por el valor absoluto de la diferencia entre el precio de oferta y los siguientes precios de la Bolsa de Energía: 
+
+* a) Si la planta de generación o la unidad, aparece en el despacho ideal para cubrir exclusivamente demanda comercial nacional: 
+
+DSV = |(PBN - PR)| * |(G.Real - G.Prog)|
+
+b) Si la planta de generación o la unidad, aparece en el despacho ideal para cubrir total o parcialmente demanda comercial internacional: 
+
+DSV = |(PBI - PR)| * |(G.Real - G.Prog)| 
+
+c) Si la planta de generación o la unidad, no aparece en el despacho ideal: 
+
+DSV = |(PBI - PR)| * |(G.Real - G.Prog)| 
+
+* Si la generación real está dentro de la banda de tolerancia, a las unidades o plantas ofertadas de este generador no se le evalúa su desviación. Así mismo, tampoco se evalúa la desviación si la unidad de generación o planta de acuerdo con la oferta, participó como regulador en la operación del sistema. 
+
+donde:
+
+PR: Precio de Reconciliación (Precio de Oferta) ($/MWh) 
+
+PBN: Precio de Bolsa para transacciones domésticas o nacionales ($/MWh) 
+
+PBI: Precio de Bolsa para transacciones internacionales (exportaciones) ($/MWh) 
+
+G.Real: Generación Real (MWh) 
+
+G.Prog: Generación Programada (MWh) 
+
+G.Ideal: Generación Ideal (MWh) 
+
+DSV: Desviación ($) 
+
+Texto original Resolución 24 de 1995:
+
+CALCULO DE LA DESVIACIÓN 
+
+Si la generación real esta por fuera de la banda del 5 % aplicada al despacho programado de cada unidad o planta ofertada, el generador deberá retribuir a la cuenta por penalizaciones el valor absoluto de la diferencia entre la generación real y el despacho programado, multiplicado por el valor absoluto de la diferencia entre el precio de oferta y el precio de la bolsa. 
+
+DSV = (PP - PR) * (G.Real - Gprog) 
+
+Si la generación real esta dentro de la banda de tolerancia, a las unidades o plantas ofertadas de este generador no se le evalúa su desviación. Asi mismo, tampoco se evalúa la desviación si la unidad de generación o planta de acuerdo con la oferta, participó como regulador en la operación del sistema. 
+
+donde: 
+
+PR: Precio de Reconciliación ($/MWh) PP: Precio del Pool ($/Mwh) G.Real: Generación Real (Mwh) G.Prog: Generación Programada (Mwh) G.Ideal: Generación Ideal (MWh) REC: Reconciliación ($) DSV: Desviación ($) 
+
+RECONCILIACIÓN Y PAGO DE DESVIACIONES. <Aparte modificado por el artículo 33 de la Resolución 60 de 2019. El nuevo texto es el siguiente:> 
+
+La sumatoria de los pagos de reconciliación - SUM (REC) y de la sumatoria de los pagos de desviaciones SUM (DSV), se repartirán de acuerdo con lo definido en el Anexo A numeral 1.1.5 y 1.1.6 de esta resolución. 
+
+Notas de Vigencia
+
+Legislación Anterior
+
+JORGE EDUARDO COCK LONDOÑO 
+
+Presidente 
+
+EVAMARIA URIBE TOBON 
+
+Director Ejecutivo 
+
+ANEXO B. 
+
+PROCEDIMIENTOS DE LIQUIDACION DE CUENTAS. 
+
+1. FACTURACIÓN, COBRANZAS Y LIQUIDACIÓN DE LOS CONTRATOS DE ENERGÍA. 
+
+Este proceso es ejecutado por los agentes participantes en cada contrato. El Administrador del SIC reporta a los contratantes, para cada contrato, la relación del contrato asignado horariamente, el cual sirve como soporte para el proceso de facturación entre los contratantes. 
+
+La información de las cantidades asignadas en los contratos se reporta a la CREG cuando esta la solicite. 
+
+Los contratos de energía son contratos entre generadores y comercializadores, y por lo tanto la facturación, forma de pago y cobro deben ser convenidos entre las partes y no son responsabilidad del Administrador del SIC. 
+
+2. FACTURACIÓN, COBRANZAS Y LIQUIDACIÓN EN LA BOLSA DE ENERGÍA. 
+
+El proceso de facturación correspondiente a las transacciones en la Bolsa de Energía se realiza mensualmente dentro de los primeros diez (10) días hábiles del mes siguiente. A este efecto el Administrador del SIC actúa como mandatario, interviniendo en los procesos de emisión de facturas, liquidaciones y cobranzas por cuenta y orden de los agentes del mercado mayorista, según los procedimientos definidos en la presente resolución. 
+
+En caso que el Administrador del SIC no expida las facturas y liquidaciones correspondientes dentro del plazo estipulado, se reportará a la CREG este incumplimiento para que determine las acciones correspondientes. 
+
+Dado que las transacciones en la Bolsa de Energía no están determinadas entre los diferentes agentes, para las deudas que cada agente tenga con el resto de los participantes en las transacciones de cada mes se aplica el criterio de proporcionalidad. 
+
+Este sistema de facturación implica que cada comprador en el mercado es deudor para con cada agente que resulte vendedor, en forma proporcional a su participación en las compras. Este sistema centralizado asegura que los pagos se efectúen e imputen guardando el criterio de proporcionalidad, conforme a que los deudores paguen sus deudas. 
+
+Por lo tanto, el Administrador del SIC administra el sistema de cobranzas centralizado y el sistema de abono de deudas asociado a las transacciones en la Bolsa de Energía. 
+
+El caso de rechazo o glosa de la factura o liquidación, la empresa deberá notificarlo por escrito dentro de los cinco (5) días hábiles siguientes a la fecha de recibo de la factura. 
+
+La factura o liquidación se podrá rechazar únicamente en los casos de tachaduras, enmendaduras, facturas presentadas en fotocopias o inexistencia de documentos soporte. 
+
+En caso de que el rechazo de la factura sea procedente, inmediatamente se refacturará con las correcciones solicitadas. 
+
+La factura o liquidación se podrá glosar cuando se presenten errores aritméticos, fecha de vencimiento incorrecta y conceptos incorrectos. Se debe señalar claramente el valor y la razón por la cual se va a glosar. 
+
+La factura o liquidación en la parte no glosada seguirá su tramite normal de pago, manteniendo vigente su fecha de vencimiento. 
+
+Concordancias
+
+2.1. INFORMACIÓN NECESARIA PARA FACTURAR. 
+
+2.1.1 RECOPILACIÓN DE LA INFORMACIÓN. 
+
+Es responsabilidad de cada uno de los agentes del mercado mayorista suministrar al Administrador del SIC toda la información necesaria para realizar el proceso de facturación dentro de los tiempos y modos que este determine. 
+
+También, los agentes del mercado mayorista se obligan a notificar en el menor tiempo, cualquier error por ellos detectado en el software del SIC. 
+
+El Administrador del SIC es responsable de elaborar con dicha información una base de datos centralizada, confiable y auditable a satisfacción de los agentes del Mercado Mayorista. 
+
+2.1.2. INFORMACIÓN DE COMERCIALIZADORES. 
+
+Los comercializadores que tengan contratos de energía a largo plazo o sean agentes del Mercado Mayorista, informan diariamente con resolución horaria la curva de carga del día anterior. 
+
+2.1.3. INFORMACIÓN DE GENERADORES. 
+
+La información a utilizar en el caso de los generadores está conformada por la información horaria consolidada por el Administrador del SIC, con base en la información diaria con resolución horaria de la generación del día anterior para cada una de las plantas o unidades de generación, de acuerdo con el Código de Redes. Si se presentan desacuerdos sobre las mediciones de las partes, una vez resueltos estos, se actualizan los cálculos y se realizan las facturaciones necesarias. Esta rectificación se efectúa en el siguiente proceso de facturación. 
+
+2.1.4. INFORMACIÓN FALTANTE. 
+
+Si dentro de los plazos establecidos, para realizar la facturación, no se tiene la información completa para este proceso, el Administrador del SIC procede a completar los datos faltantes con la mejor información a su alcance. Esta situación se comunica en los documentos que soportan las transacciones comerciales del respectivo mes. 
+
+Cualquier rectificación de los datos estimados por el Administrador del SIC, se realiza en el proceso de facturación del mes en que se presente la rectificación, identificando la causa o causas de ésta. 
+
+2.2. LIQUIDACIÓN DE TRANSACCIONES. 
+
+2.2.1. RESULTADO DE LAS TRANSACCIONES. 
+
+El Administrador del SIC envía mensualmente las transacciones que resultan en la Bolsa de Energía correspondientes a cada uno de los agentes participantes del mercado. Para los agentes que tengan contratos de energía a largo plazo vigentes en la facturación mensual se les reporta la asignación del contrato en forma horaria. 
+
+2.2.2. DOCUMENTO DE LAS TRANSACCIONES ECONÓMICAS. 
+
+Las facturas emitidas por el Administrador del SIC y las órdenes de pago van acompañadas con la relación de las transacciones diarias realizadas por el agente. 
+
+Esta información se presenta en forma discriminada para las compras y para las ventas para cada agente comercial. 
+
+2.3. FACTURACIÓN. 
+
+2.3.1. FACTURACIÓN DE LAS OPERACIONES DE COMPRA/VENTA EN EL MERCADO. 
+
+Las facturas expedidas por el Administrador del SIC para los agentes del mercado deben cumplir con todos los requisitos definidos en el Código de Comercio para las facturas comerciales. 
+
+Cuando se realicen procesos de facturación correspondientes a períodos anteriores al último mes, la facturación de esos servicios incluye el interés correspondiente a los cambios en los valores facturados, aplicable a partir de la fecha del vencimiento original del mes que se este actualizando. 
+
+La tasa de interés será igual a la tasa de Depósitos a Término Fijo (DTF) certificada por el Banco de la República correspondiente al último día hábil del mes respectivo. La aplicación de la tasa de interés se debe efectuar de la siguiente manera: 
+
+- Para el período entre la fecha del vencimiento original del mes que se está actualizando y el mes de emisión de la factura de actualización se utilizan las tasas DTF mensuales del último día hábil de los meses existentes durante el período. 
+
+- Para el período entre el mes de emisión de la factura y el vencimiento se utiliza la DTF del último día hábil del mes anterior al de expedición de la factura. 
+
+El dinero por los intereses se transfieren en forma proporcional a los agentes que deben recibir el dinero por esta situación en los plazos determinados para que el Administrador del SIC efectúa las transferencias de pago. 
+
+El Administrador del SIC remite a cada agente del mercado mayorista, por medio de FAX o Correo Electrónico, según se acuerde con cada uno, las respectivas facturas (a deudores) y liquidaciones (a los acreedores). Esta fecha es válida como fecha de expedición de la factura. Simultáneamente, envía por correo certificado los documentos originales. 
+
+En el SIC se permite que se realice el cruce de cuentas dentro del mes de liquidación para las compras y ventas del mismo agente, es decir, el Administrador del SIC envía el reporte del total de ventas mensuales y de compras mensuales de cada agente, y presenta el neto como valor a facturar o liquidar. El agente generador y comercializador de una misma empresa se tratan en forma independiente. 
+
+2.3.2. PLAZOS GARANTIZADOS DE PAGO Y APLICACIÓN DE PAGOS. 
+
+<Numeral modificado por el artículo 24 de la Resolución 157 de 2011. Rige a partir del 1o. de julio de 2012. El nuevo texto es el siguiente:> El vencimiento de las facturas emitidas por el ASIC será el quinto día hábil posterior a la emisión de la Facturación Mensual. El mismo plazo se aplicará a las notas de ajuste emitidas por el ASIC que estén en firme a la fecha de emisión de la Facturación Mensual. Para el efecto, al finalizar el día del vencimiento el ASIC deberá tener disponibles y efectivos los recursos de los pagos efectuados por los agentes; en caso contrario se entenderá que no se ha realizado el pago.
+
+Los agentes deberán utilizar los procedimientos de pago que indique el ASIC. Además, a más tardar el día hábil siguiente al pago deberán suministrar la información que requiera el ASIC sobre el abono efectuado, utilizando los medios que este defina.
+
+El no pago de la factura o de las notas de ajuste en la fecha señalada dará lugar a que el ASIC aplique el máximo interés moratorio permitido por la ley sobre los saldos pendientes de pago. El ASIC informará a los agentes acreedores de dichos dineros el valor que se cause por ese concepto. Cuando se reciba el pago de estos intereses, se procederá a la entrega proporcional a los agentes beneficiarios de las respectivas cuentas.
+
+Los pagos que realicen los agentes se aplicarán primero a la cancelación de intereses de mora y luego al valor del capital considerando la antigüedad de los vencimientos.
+
+El ASIC reconocerá intereses calculados con el máximo interés moratorio permitido por la ley si, por causas imputables a su gestión, no distribuye los recaudos dentro del plazo previsto en la regulación vigente. El no distribuir los recaudos dentro del plazo previsto no se considerará imputable al ASIC cuando por falta de información no sea posible aplicar los pagos.
+
+Si una vez aplicado lo establecido en el artículo 21 de la Resolución CREG 081 de 2007, o aquellas que la sustituyan o modifiquen, resulta un saldo de rendimientos financieros sobre los recaudos efectuados, el ASIC lo distribuirá entre los agentes beneficiarios de esos pagos, dentro de los cinco (5) días hábiles siguientes a la fecha del cálculo de que trata el citado artículo.
+
+Notas de Vigencia
+
+Concordancias
+
+Legislación Anterior
+
+2.3.3. COBRANZAS A LOS DEUDORES. 
+
+El Administrador del SIC presta el servicio de cobranza en el mercado mayorista, que incluye todos los pagos que se efectúen, exceptuando los que correspondan a la ejecución de contratos de energía a largo plazo entre generadores y comercializadores. 
+
+Para el efecto del pago de las obligaciones de los agentes del mercado mayorista, el Administrador del SIC ofrece a los agentes la transferencia a las cuentas bancarias habilitadas para este único efecto por el Administrador del SIC. 
+
+Si se realizan pagos parciales de las facturas, los valores faltantes causan intereses de Mora. 
+
+Se conviene que la constitución en mora en las transacciones de la bolsa de energía, no requiere pronunciamiento judicial, y que bastará para ello certificación expedida, de oficio o a petición de parte, por el Administrador del Sistema de Intercambios Comerciales, en la que conste: 
+
+a) Que una obligación para cuyo cumplimiento se había pedido la ayuda del Administrador del SIC, y cuyo cumplimiento era indispensable, según las reglas y costumbres, para que un acto o contrato sobre energía produjera sus efectos naturales, no tuvo cumplimiento dentro del término estipulado; 
+
+b) Que una obligación para cuyo cumplimiento se había pedido la ayuda del Administrador del SIC, y cuyo cumplimiento era indispensable, según las reglas y costumbres, para que un acto o contrato sobre energía produjera sus efectos naturales, no tuvo cumplimiento dentro del término en el que éste habría sido económicamente útil y físicamente posible; 
+
+c) Que cualquiera otra obligación, cuyo cumplimiento era indispensable para que un acto o contrato sobre energía produjera sus efectos naturales, y directamente relacionada con una para cuyo cumplimiento se había pedido la ayuda del Administrador del SIC, no tuvo cumplimiento en la forma convenida o acostumbrada por las partes; o en la forma que, a falta de convención o costumbre de las partes, la cumplen por costumbre otras empresas que usan los servicios del Administrador del SIC; o en la forma que, si no son aplicables los criterios anteriores, debería haberse cumplido para que el Administrador del SIC cumpliera mejor sus funciones. 
+
+El Administrador del SIC debita y cobra los intereses de Mora por cuenta y orden de los acreedores. Los importes cobrados por este concepto se depositan en las cuentas bancarias reportadas por los acreedores en los plazos y condiciones que se señalan en la presente resolución. 
+
+2.3.4. PAGOS A LOS AGENTES DEL MERCADO MAYORISTA. <Numeral modificado por el artículo 2 de la Resolución 101 76 de 2025. El nuevo texto es el siguiente:> Los ingresos provenientes de los recaudos por concepto de transacciones en la bolsa de energía, se distribuirán, cuando el agente comunique vía FAX, o por cualquier otro medio de comunicación, del pago de las facturas; el Administrador del SIC se obligará dentro de los cuatro (4) días hábiles siguientes a la fecha de aviso de la respectiva consignación, siempre y cuando la transacción bancaria efectivamente se haya realizado, a transferir a los agentes vendedores en las proporciones respectivas los dineros recaudados. Durante este plazo estos dineros no generan ningún interés, ya que se consideran en el tiempo asignado para la operatividad del Administrador del SIC. La distribución entre los acreedores, de cada cobro efectuado por el Administrador del SIC, se realiza conforme a la proporcionalidad de las acreencias individuales con respecto de las totales correspondientes a cada mes.
+
+Las acreditaciones realizadas se aplican respetando las proporcionalidades correspondientes a cada período, en primer término, a la cancelación de los intereses devengados a la fecha de cobro. El remanente se imputa al capital. 
+
+De existir saldos correspondientes a distintos períodos mensuales la aplicación se realiza en todos los casos a partir del más antiguo.
+
+Para asignar un pago a un agente del mercado mayorista se requiere que éste se encuentre a paz y salvo con el Administrador del SIC. En caso de no estar a paz y salvo las acreditaciones que le correspondieren se consideran automáticamente como pago de sus obligaciones con la bolsa de energía.
+
+El Administrador del SIC hace efectivas las garantías a partir del incumplimiento del agente deudor. Si la garantía no cubre la totalidad de la deuda del agente comprador, el Administrador del SIC reporta a la CREG y a la Superintendencia de Servicios Públicos Domiciliarios el incumplimiento. Si al primer día hábil del mes siguiente al vencimiento de la factura el agente no ha efectuado el pago completo de su obligación, el Administrador del SIC oficiará y solicitará inmediatamente a la Superintendencia de Servicios Públicos Domiciliarios la investigación e imposición de las sanciones a que hubiere lugar, sin perjuicio de las acciones legales que promueva el Administrador del SIC. En este caso, la empresa incumplida deberá además reembolsar los gastos en que se incurra para el cobro efectivo de las obligaciones pendientes.
+
+Todos los agentes del Mercado Mayorista asumen el riesgo de las cuentas por transacciones en la bolsa de energía no cubiertas por garantías. En este caso la cartera se comparte entre los demás agentes comercializadores y generadores en forma proporcional a las transacciones en bolsa en los meses no cubiertos por las garantías, sin perjuicio de que el deudor incumplido asuma plenamente su responsabilidad.
+
+Notas de Vigencia
+
+Legislación Anterior
+
+JORGE EDUARDO COCK LONDOÑO 
+
+Presidente 
+
+EVAMARIA URIBE TOBON 
+
+Director Ejecutivo 
+
+ANEXO C. 
+
+GARANTIAS. 
+
+<Anexo modificado por el artículo 5 de la Resolución 19 de 2006. El nuevo texto es el siguiente:> 
+
+El cumplimiento de todas aquellas obligaciones en el Mercado de Energía Mayorista y el Sistema Interconectado Nacional, que liquida y factura el Administrador del Sistema de Intercambios Comerciales (ASIC) y el Liquidador y Administrador de Cuentas (LAC) a los agentes registrados en el Mercado, será objeto de garantías que se otorgarán a favor del ASIC, en su calidad de operador del Mercado y mandatario de los agentes, con sujeción al Reglamento de Mecanismos de Cubrimiento para las Transacciones en el Mercado de Energía Mayorista, que para el efecto elabora el ASIC.
+
+Estas garantías deben asegurar el pago de: Todas las obligaciones de cada uno de los agentes que participe en el mercado mayorista a través de la Bolsa de Energía, los cargos del CND y del ASIC, los cargos por uso del SIN, los pagos por reconciliaciones, servicios complementarios, cargo por capacidad y cualquier otro concepto, que sean liquidados y recaudados por el Administrador del SIC o por el LAC. Por tal razón deben estar vigentes por lo menos hasta el momento en que se verifique la cancelación de las obligaciones adquiridas y cubrir cada uno de los meses pendientes de pago.
+
+Concordancias
+
+CRITERIOS QUE DEBEN CUMPLIR LAS GARANTÍAS. 
+
+Los instrumentos que se podrán admitir como garantías deben cumplir los siguientes principios:
+
+Que cubran por todo concepto el estimado de las liquidaciones realizadas por el ASIC y el LAC.
+
+Que sean calculados en valores en moneda nacional.
+
+Que otorguen al ASIC o a quien realice sus funciones, la preferencia para obtener de manera inmediata el pago de la obligación garantizada. 
+
+Ser otorgados de manera irrevocable a favor del ASIC, o quien realice sus funciones.
+
+Ser líquidos y fácilmente realizables. 
+
+Estar incluidos en el Reglamento de Mecanismos de Cubrimiento para las Transacciones en el Mercado de Energía Mayorista
+
+Otra posibilidad de garantizar las obligaciones de los agentes puede ser la de crear un fondo de sustentación con la participación de un número plural de agentes que estaría conformado por los aportes iniciales hechos por todos y por las cuotas periódicas que los mismos paguen, en uno u otro caso en función de su participación en el mercado.
+
+La negociación, celebración y modificación de los contratos de garantía que se celebren para proteger a los agentes participantes del mercado mayorista en los contratos que deben cumplirse en las transacciones en la bolsa de energía, se someterán a las reglas propias de tales contratos, y no a las que se apliquen a los contratos cuyo cumplimiento garantizan.
+
+Notas de Vigencia
+
+Legislación Anterior
+
+ANEXO C-1. 
+
+METODOLOGIA PARA DETERMINAR LA ENERGIA FIRME DE 
+
+PLANTAS GENERADORAS. 
+
+<Anexo derogado por el artículo 44 de la Resolución 60 de 2019> 
+
+Notas de Vigencia
+
+Legislación Anterior
+
+ANEXO D. 
+
+CONTRATOS DE ENERGIA. 
+
+1. PLAZOS PARA REGISTRO DE CONTRATOS DE ENERGÍA A LARGO PLAZO. 
+
+Como condición general se tiene que todos los contratos de energía a largo plazo que se celebren entre comercializadores y generadores y se liquiden en la bolsa de energía se registrarán ante el Administrador del SIC. 
+
+Para el período de transición los contratos de energía a largo plazo se deben registrar ante el Administrador del SIC en las fechas especiales definidas por la resolución CREG-009 de 1994 y las que la modifiquen. 
+
+Para que un contrato de energía a largo plazo sea registrado por el Administrador del SIC, requiere que los contratantes realicen un Contrato de Mandato con el Administrador del SIC para la facturación, pago y recaudo de los valores correspondientes a las transacciones de energía realizadas en la Bolsa de Energía, cobro de las sanciones que se apliquen por errores, omisión o no cambios de equipos de medición y la aceptación de los procedimientos definidos en la presente resolución. Además, deben presentar las garantías definidas por la CREG o realizar los pagos anticipados para el comercializador y para el generador a partir de la fecha de iniciación del Contrato. 
+
+El plazo para el suministro de la información de los contratos de energía a largo plazo durante el período de transición son las fechas especiales definidas por la CREG en la resolución CREG 016 del 13 de junio de 1995 y las resoluciones que la modifiquen. 
+
+Los contratos de energía a largo plazo adicionales que se presenten en fechas posteriores a las definidas en la resolución CREG 016 del 13 de junio de 1995, se deben registrar como mínimo con una anticipación de quince (15) días calendario al mes de su aplicación, ya sea en el caso de un nuevo contrato o de modificación de uno existente. 
+
+El Administrador del SIC tiene un plazo de siete (7) días hábiles después del recibo del contrato, para solicitar las aclaraciones sobre el criterio de asignación horaria del contrato. Si las partes no presentan las aclaraciones que resuelvan la interpretación dada por el Administrador del SIC al criterio de asignación horaria del contrato dentro de los siguientes cinco (5) días hábiles de solicitada la aclaración, el Administrador del SIC no registra el contrato y comunica a los agentes. 
+
+JORGE EDUARDO COCK LONDOÑO 
+
+Presidente 
+
+EVAMARIA URIBE TOBON 
+
+Director Ejecutivo 
+
+ANEXO E. 
+
+NORMAS COMPLEMENTARIAS SOBRE OFERTA DE CAPACIDAD DE RESPALDO. 
+
+De acuerdo al artículo 5o. de la Resolución CREG-053 de 1994, las empresas propietarias de las unidades elegibles para capacidad de respaldo tienen la libre opción de ofrecerlas para prestar ese servicio. Las siguientes normas complementarias precisan el procedimiento de ofertas de capacidad de respaldo en el caso que algunas de las empresas propietarias de las unidades elegibles decidan no prestar ese servicio: 
+
+Si alguna de las unidades elegibles para respaldo no es ofrecida, aquellas elegibles con capacidad remanente, podrán ofrecer esa capacidad siempre y cuando su capacidad para respaldo no supere su capacidad nominal. 
+
+En el caso de que dos o más unidades elegibles deseen optar por suplir la capacidad de respaldo de una unidad no ofrecida, se hará una asignación tomando en cuenta el costo variable de operación, es decir, se suple la capacidad de respaldo con las capacidades remanentes de las menos a las mas costosas hasta que se reemplace la capacidad dejada de ofrecer o hasta que se agote la capacidad remanente ofrecida. 
+
+JORGE EDUARDO COCK LONDOÑO 
+
+Presidente 
+
+EVAMARIA URIBE TOBON 
+
+Director Ejecutivo 
+
+ Gestor Normativo Alejandría 2.0
+
+ ISBN : 978-958-98069-4-4
+
+ Última actualización: 
+
+ Control de versiones
+
+ Créditos y reserva de derechos de
+ autor
+
+ Comisión de Regulación de Energía y Gas CREG -
+ DRA © 2019 a 2024
+
+Comisión de Regulación de Energía y Gas - CREG
+
+Sede principal
+
+ Av. Calle 116 No. 7-15 Edificio Cusezar Int. 2 Oficina 901,
+ Bogotá
+
+ Código postal: 110111
+
+ Horario de Atención: Lunes a Viernes, 8:00 a.m. a 1:00 p.m. - 2:00
+ p.m. a 5:00 p.m.
+
+ Teléfono celular: 3208473254
+
+ Teléfono conmutador: +57 (601) 6032020
+
+ Línea gratuita: 01 8000 512734
+
+ Línea anticorrupción: +57 (601) 6032020 Ext. 444
+
+ Correo institucional: creg@creg.gov.co
+
+ Correo de notificaciones judiciales: notificaciones.judiciales@creg.gov.co
+
+ Correo de notificaciones administrativas: oficiales.creg@creg.gov.co
+
+ Correo de seguridad digital: seguridaddigital@creg.gov.co
+
+ @comisioncreg
+
+ Comisión CREG
+
+ @ComisionCREG
+
+ Comisión de Regulación de Energía y Gas
+
+ Mapa del sitio 
+
+ Política de privacidad y tratamiento de datos
+
+ Términos y condiciones 
+
+ Política de seguridad de la información 
+
+ Política de derechos de autor y/o autorización de
+ uso sobre los contenidos 
+
+ Certificado de Accesibilidad Web 
+
+ Inicio
+
+ MÓDULOS
+
+ Novedades
+
+ Búsqueda avanzada
+
+ Respuestas automáticas
+
+ Compilaciones
+
+ Resoluciones originales
+
+ Proyectos de resolución
+
+ Conceptos
+
+ Circulares
+
+ Compilación jurídica
+
+ Notificaciones
+
+ Actos administrativos especiales
+
+ Preguntas frecuentes
+
+ ×
+
+Resolución 24 de 1995 CREG
+
+ menu_book
+
+ Documento .html
+
+Consulte el documento para más información...
+
+ Consultarnavigate_next
+
+ menu_book
+
+ Documento Word de Microsoft
+
+Consulte el documento para más información...
+
+ Consultarnavigate_next
+
+ menu_book
+
+ Documento PDF
+
+Consulte el documento para más información...
+
+ Consultarnavigate_next
+
+ Contraste | Modo oscuro
+
+ Reducir letra (16px)
+
+ Aumentar letra (16px)
+
+ Centro de relevo 
+
+Volver arriba

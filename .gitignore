@@ -1,0 +1,8 @@
+.env
+*.txt.key
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+.gradio/
+llave.txt*
+EAFIT_Proyecto_Final_IA.pdf
