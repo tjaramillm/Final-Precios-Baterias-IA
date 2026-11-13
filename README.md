@@ -65,6 +65,9 @@ la potencia o la eficiencia, se reentrena una vez (~30 s) y el resultado queda e
 
 Evaluación del agente por consola: `python src/evaluacion_agente.py` → `resultados/evaluacion_agente.{csv,md}`.
 
+**Informe:** [`informe/informe.pdf`](informe/informe.pdf). Para regenerarlo: `python informe/generar_figuras.py`
+y luego, dentro de `informe/`, `latexmk -pdf informe.tex` (requiere una distribución LaTeX).
+
 ## Estructura
 
 ```
@@ -82,7 +85,11 @@ Evaluación del agente por consola: `python src/evaluacion_agente.py` → `resul
 ├── data/raw/                  precio_bolsa_xm.csv, docs/*.txt (plan B)
 ├── data/index/                Índice FAISS + chunks
 ├── resultados/                Métricas de políticas y evaluación del agente
-├── informe.md                 Informe breve (≤ 4 páginas)
+├── informe/
+│   ├── informe.pdf            Informe breve (3 páginas) ← compilado
+│   ├── informe.tex            Fuente LaTeX
+│   ├── figuras/               Figuras del informe (PDF)
+│   └── generar_figuras.py     Regenera las figuras
 └── DECLARACION_IA.md          Declaración de uso de IA generativa
 ```
 
