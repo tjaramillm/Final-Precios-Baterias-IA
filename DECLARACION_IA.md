@@ -22,4 +22,3 @@ El estilo y la estructura se adaptaron de los notebooks del curso
 `lecture4/01_value_iteration_gridworld`, `lecture5/01_cheeseworld_q_learning`,
 `lecture10/01_rag_nvidia_nim`, `Lecture11/part01_from_prompt_to_action` y `Lecture 9/04_nvidia_gradio_lab`.
 
-_El equipo entiende y puede explicar todo el código entregado._
